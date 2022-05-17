@@ -6,12 +6,13 @@ This course transitions the [W22 Online](https://q.utoronto.ca/courses/253019) v
 
 ## The weekly routine of the course consists of
 - 2 hours of in-person lecture
+  - 1 hour of "completion credit" quizzes designed to reinforce course learning objectives
 - 1 hour of tutorial, which a focus on written and verbal comminication
 
   > a key skill of the statistician and data scientist
   
   - 2 hours of written and verbal communication homework primarily associated with the tutorial 
-  - 1 hour of "completion credit" quizzes designed to reinforce course learning objectives
+
   
 - 4 hours of "completion credit" R homework
 
