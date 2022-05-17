@@ -1,15 +1,21 @@
 
 
-# An Introduction to Statistical Reasoning and Data Science: STA130 Fall 2022
+# STA130 (Fall 2022): An Introduction to Statistical Reasoning and Data Science
 
 This course transitions the [W22 Online](https://q.utoronto.ca/courses/253019) version of this course to an in-person course by directly translating previous powerpoint slides and accompanying pre-recorded lectures into the ".Rmd presentation" format used for student project submissions. The translation is faithful to the original material while also attempting to streamline and increase precision of scope limitations and learning targets. Adjustments are merely the natural product of the review and organizational process of transitioning the notes and do not entail critical criques of the original material on which they are based.
 
 ## The weekly routine of the course consists of
-- 2 hours of lecture
-- 1 hour of tutorial, which a focus on written and verbal comminication -- a key skill of the statistician and data scientist
-- 2 hours of written and verbal communication homework primarily associated with the tutorial (15% of course grade)
-- 1 hour of "completion credit" quizzes designed to reinforce course learning objectives (10% of course grade)
-- 4 hours of "completion credit" R homework designed to develop and practice the skills evaluated exams and the course project (15% of course grade)
+- 2 hours of in-person lecture
+- 1 hour of tutorial, which a focus on written and verbal comminication
+
+  > a key skill of the statistician and data scientist
+  
+  - 2 hours of written and verbal communication homework primarily associated with the tutorial 
+  - 1 hour of "completion credit" quizzes designed to reinforce course learning objectives
+  
+- 4 hours of "completion credit" R homework
+
+  > designed to develop and practice the skills evaluated exams and the course project
 
 ## The course grade is consists of
 - 15% R homework
