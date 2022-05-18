@@ -39,8 +39,70 @@ The data we will work with is based on advances in the fields of [Flow Cytometry
 The data observations simultaneously measure 17 so-called [AP-1 transcription factors](https://en.wikipedia.org/wiki/AP-1_transcription_factor) over thousands of cells in a given experiemental condition. By repeatedly observing this protein complex as is done in this data, the correlation between the different proteins can be observed. Further, the evolution of this dependency can be observed over time as a response to different interventions. And even further, the emergence of downstream cellular phenotypes in response to changes of the state of the AP-1 system can also be observed and can be characterized through 4 other "phenotype" proteins which are also measured in this data set. Thus, though our course project, we seek to understand the inter-dependence between the AP-1 proteins, and their driving relationship with downstream cellular phenotypes, and how we might intervene along this pathway to induce transformation away from deletarious cellular states. I.e., "data-driven identification and control of high-dimensional dynamical systems".
 
 
+## Further Details
 
-## Module 0:
+### Lectures
+
+In-person lectures will review the course slides and .Rmd files
+
+### Tutorials
+
+In-person tutorials will address and practice communication for statistics and data science though various written, group, and presentation exercises
+
+### Office Hours
+
+We will have in-person office hours as well as virtual (zoom) office hours as follows
+
+### Piazza
+
+We will use piazza to support student questions
 
 
-https://dosstoolkit.com/
+
+## Module 1: R Basics
+
+Module 1 is concerned with introducing students to R and [Rstudio](https://www.rstudio.com/) using [UofT's Jupyterhub](https://jupyter.utoronto.ca). Our primary reference resources in this task are
+
+- the [DoSS Toolkit](https://dosstoolkit.com/) created by seasoned STA130 Profs. Alexander and Caetano among many, many others
+- the [R for Data Science](https://r4ds.had.co.nz/) textbook by Hadley Wickham & Garret Grolemund
+
+
+> The [UofT Jupyterhub](https://jupyter.utoronto.ca) is a phenomenal resource; however, it is subject to service outages from time to time (which have in the past coincided with assignment due dates); and, when a heavy user load accesses it at the same time (e.g., if all the students in our class log in at once) it can take time to "spin-up" resource instances to support the demand, so there can be long "loading" periods in such instances.
+
+> An extremely valuable skill in the coding context of statistica and Data Science is troubleshooting and figuring things out.  Resources like the [DoSS Toolkit](https://dosstoolkit.com/) and the [R for Data Science](https://r4ds.had.co.nz/) textbook are structured places to learn things in an organized manner; however, google, stack exchange/overflow, and coding blog posts can be an invaluable resource for finding fixes for coding bugs and solutions for desired analyses. Hopefully through this class you will take the opportunity to build your coding resiliance and self-sufficiency.
+
+### Source Material
+
+I am currently planning to combine module 0 and 1
+
+#### Module 0 material
+- https://rstudio-with-jupyerhub-uoft.netlify.app
+- https://q.utoronto.ca/courses/253019/pages/opening-editing-knitting-and-downloading-your-rstudio-jupyterhub-problem-sets?module_item_id=3315343
+- and cute pictures from Allison Horst in Module 0 and the syllabus
+
+#### Module 1 material
+
+- Everything: https://q.utoronto.ca/courses/253019/pages/m1-outcomes-and-activities?module_item_id=3320925
+
+
+## Module 2: Distributions and Statistics
+
+## Module 3: Data Wrangling with Tidy
+
+## Module 4: Statistical Inference for a Single Sample Proportion
+
+## Module 5: Permutation Tests for Two Groups
+
+## Midterm Review
+
+## Module 6: Sampling Distributions and Bootstrap Confidence Intervals
+
+## Module 7: Linear Regression I
+
+## Module 8: Linear Regression II
+
+## Module 9: Classification Trees
+
+## Module 10: Study Design, Confounding, and Ethics
+
+## Final Review
