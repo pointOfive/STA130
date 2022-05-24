@@ -24,8 +24,9 @@ This course transitions the [W22 Online](https://q.utoronto.ca/courses/253019) v
 
 ## Course Grading
 
-| 10% R homework | 10% written and verbal communication homework |
+| | |
 |-|-|
+| 10% R homework | 10% written and verbal communication homework |
 | 15% tutorial communication activies | 25% Course project |
 | 20% Midterm exam | 20% Final exam |
 
