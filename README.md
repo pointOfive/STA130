@@ -69,54 +69,41 @@ The data observations simultaneously measure 17 so-called [AP-1 transcription fa
 
 Week 1 is concerned with introducing students to R and [Rstudio](https://www.rstudio.com/) using [UofT's Jupyterhub](https://jupyter.utoronto.ca). Our primary reference resources in this task are
 
-- the [R for Data Science](https://r4ds.had.co.nz/) textbook by Hadley Wickham & Garret Grolemund
-- the [DoSS Toolkit](https://dosstoolkit.com/) created by seasoned STA130 Profs. Alexander and Caetano among many, many others
-- and Rstudio [primers](https://rstudio.cloud/learn/primers) and [cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
-
-In particular, the resources from these references which will help you getting started in week 1 are 
-[https://r4ds.had.co.nz/workflow-basics.html](R4DSch4), [Programming Basics](https://rstudio.cloud/learn/primers/1.2),
-and the modules on [Rstudio](https://dosstoolkit.com/#hello-world), [errors](https://dosstoolkit.com/#operating-in-an-error-prone-world),
-and [packages](https://dosstoolkit.com/#holding-the-chaos-at-bay) from the [DoSS Toolkit](https://dosstoolkit.com/)
-for those [https://dosstoolkit.com/#if-you-have-never-used-r-before](new to R and Rstudio).
+- the [R for Data Science](https://r4ds.had.co.nz/workflow-basics.html) textbook by Hadley Wickham & Garret Grolemund
+- the [DoSS Toolkit](https://dosstoolkit.com/) created by seasoned STA130 Profs. Alexander and Caetano et al.
+  - specifically the [Rstudio](https://dosstoolkit.com/#hello-world), [errors](https://dosstoolkit.com/#operating-in-an-error-prone-world),
+and [packages](https://dosstoolkit.com/#holding-the-chaos-at-bay) [tutorials](https://dosstoolkit.com/#if-you-have-never-used-r-before)
+- and [R primers](https://rstudio.cloud/learn/primers/1.2) and [Rmarkdown](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown.pdf) and [Rstudio](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rstudio-ide.pdf) cheatsheets
 
 > The [UofT Jupyterhub](https://jupyter.utoronto.ca) is a phenomenal resource; however, it is subject to service outages from time to time (which have in the past coincided with assignment due dates), and it can take a long time to load when there's a lot of simultaneous user demand (if a lot of students in our or another class log in at once). When you cannot use [UofT Jupyterhub](https://jupyter.utoronto.ca) you must use your own [local Rstudio instance](https://www.rstudio.com/).
 
 > An extremely valuable skill in the context of coding for statistics and Data Science is troubleshooting and figuring things out.  Resources like the [R for Data Science](https://r4ds.had.co.nz/) textbook and the the [DoSS Toolkit](https://dosstoolkit.com/) are excellent recources to learn things in a systematic, structured, and organized manner; however, google, stack exchange/overflow, and coding blog posts can be an invaluable resource for finding quick solutions for coding bugs and suggestions for how to complete a desired analyses. Hopefully through this class you will take the opportunity to build your self-sufficiency and coding-resiliance.
 
-The content for week 1 includes
+#### Week 1 Course Material
 
-- [In-class Slides](https://github.com/pointOfive/STA130_Week1_Slides) [view on Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Slides&urlpath=rstudio%2F&branch=main)
-- [In-class Demo 1](https://github.com/pointOfive/STA130_Week1_Demo1) [view Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Demo1&urlpath=rstudio%2F&branch=main) and
-- [In-class Demo 2](https://github.com/pointOfive/STA130_Week1_Demo2) [view Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Demo2&urlpath=rstudio%2F&branch=main).
-- [In-class questions](https://pollev.com/sta) [[Round 1](https://PollEv.com/surveys/Sn8Y5ZdhDdocnPBg5lWU3/respond), [Round 2](https://PollEv.com/surveys/ZajOSOpWDmepur3hTlXKV/respond), [Round 3](https://PollEv.com/surveys/ytOu9cYQoL6Oyon1dmUWr/respond), [Round 4](https://PollEv.com/surveys/5gpW9MIWgzTuE81nEJDaH/respond), [Round 5](https://PollEv.com/surveys/k46QXuZy1j1a9kuXy4eY0/respond)]
-- [Practice quiz](https://q.utoronto.ca/courses/253019/quizzes/236277/edit)
-- [Homework assignment](https://github.com/SamanthaJoCaetano/STA130-W22-ProblemSet1)
+| [Slides](https://github.com/pointOfive/STA130_Week1_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Slides&urlpath=rstudio%2F&branch=main)], [Demo 1](https://github.com/pointOfive/STA130_Week1_Demo1) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Demo1&urlpath=rstudio%2F&branch=main)], [Demo 2](https://github.com/pointOfive/STA130_Week1_Demo2) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Demo2&urlpath=rstudio%2F&branch=main)] | [Questions](https://pollev.com/sta) [[Round 1](https://PollEv.com/surveys/Sn8Y5ZdhDdocnPBg5lWU3/respond), [Round 2](https://PollEv.com/surveys/ZajOSOpWDmepur3hTlXKV/respond), [Round 3](https://PollEv.com/surveys/ytOu9cYQoL6Oyon1dmUWr/respond), [Round 4](https://PollEv.com/surveys/5gpW9MIWgzTuE81nEJDaH/respond), [Round 5](https://PollEv.com/surveys/k46QXuZy1j1a9kuXy4eY0/respond)] |
+|-|-|
+| [Homework Assignment](https://github.com/SamanthaJoCaetano/STA130-W22-ProblemSet1) and [Practice Quiz](https://q.utoronto.ca/courses/253019/quizzes/236277/edit) | |
 
 
+### Module 2: Distributions and Statistics
 
-#### Module 1 material
+### Module 3: Data Wrangling with Tidy
 
-- Everything: https://q.utoronto.ca/courses/253019/pages/m1-outcomes-and-activities?module_item_id=3320925
+### Module 4: Statistical Inference for a Single Sample Proportion
 
+### Module 5: Permutation Tests for Two Groups
 
-## Module 2: Distributions and Statistics
+### Midterm Review
 
-## Module 3: Data Wrangling with Tidy
+### Module 6: Sampling Distributions and Bootstrap Confidence Intervals
 
-## Module 4: Statistical Inference for a Single Sample Proportion
+### Module 7: Linear Regression I
 
-## Module 5: Permutation Tests for Two Groups
+### Module 8: Linear Regression II
 
-## Midterm Review
+### Module 9: Classification Trees
 
-## Module 6: Sampling Distributions and Bootstrap Confidence Intervals
+### Module 10: Study Design, Confounding, and Ethics
 
-## Module 7: Linear Regression I
-
-## Module 8: Linear Regression II
-
-## Module 9: Classification Trees
-
-## Module 10: Study Design, Confounding, and Ethics
-
-## Final Review
+### Final Review
