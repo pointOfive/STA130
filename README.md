@@ -26,12 +26,11 @@ The course objectives are to develop and practice the two steps the statistical 
 
 ## Course Grading
 
-- 10% R homework
-- 10% written and verbal communication homework
-- 15% tutorial communication activies
-- 20% Midterm exam
-- 20% Final exam
-- 25% Course project
+| 10% R homework | 10% written and verbal communication homework |
+|-|-|
+| 15% tutorial communication activies | 25% Course project |
+| 20% Midterm exam | 20% Final exam |
+
 
 Tutorial attendance is mandatory in the sense that it involves graded in-person activies. 
 Lecture attendance is mandatory in the sense that lectures will not be recorded, but there are no addendance grades for lectures.
