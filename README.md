@@ -2,7 +2,7 @@
 
 # STA130 (Fall 2022): An Introduction to Statistical Reasoning and Data Science
 
-This course transitions the [W22 Online](https://q.utoronto.ca/courses/253019) version of this course to an in-person course by translating previous powerpoint slides and accompanying pre-recorded lectures into an Rmd beamer pdf presentation format (which is the format required for student project submissions). The course objectives are to develop and practice the two steps the statistical and data science workflow:
+This course transitions the [Winter 2022 Online](https://q.utoronto.ca/courses/253019) version of this course back to the [Fall 2019 In-Person](https://www.statistics.utoronto.ca/sites/www.statistics.utoronto.ca/files/STA130_syllabus_F19.pdf) format. This is done by translating previous [powerpoint slides and accompanying pre-recorded lectures](https://q.utoronto.ca/courses/253019) into an Rmd beamer pdf presentation format (which is the format required for student project submissions). The course objectives are to develop and practice the two steps the statistical and data science workflow:
 
 1. Extract meaning from data through coding and analysis
 2. Communicate learned knowledge in writing and speaking
@@ -12,15 +12,12 @@ This course transitions the [W22 Online](https://q.utoronto.ca/courses/253019) v
 
 - 2 hours of in-person lecture and interactive class practice quizzes
 
+  > 2 hours of review, office hours, and piazza discussion board time
   > 3 hours of "completion credit" R homework (5%) designed to develop and practice the skills evaluated on the exams (45%) and the course project (20%)
   
 - 2 hours of in-person tutorial activities (15%) focussing on written and verbal comminication
 
-  > 2 hours of written and verbal communication homework (10%) designed to develop and practice the skills evaluated on the exams and the course project
-
-- 2 hours of study time
-
-  > For course review, office hours, piazza discussion board 
+  > 1 hours of written and verbal communication homework (10%) designed to develop and practice the skills evaluated on the exams and the course project
 
 ## Course Grading
 
@@ -32,13 +29,13 @@ This course transitions the [W22 Online](https://q.utoronto.ca/courses/253019) v
 
 Tutorial attendance is mandatory in the sense that it involves graded in-person activies. 
 Lecture attendance is mandatory in the sense that lectures will not be recorded, but there are no addendance grades for lectures.
-Practice quizzes and other study materials to help prefar for the exams (40%) are available, but these are optional in the sense that they are not graded for course points.
+Practice quizzes and other study materials to help prefar for the exams are available, but these are optional in the sense that they are not graded for course points. The participation activities involve surveys and mentorship activies.
 
 ## Misses Assessments
 
 - Missed Exams may be rescheduled for valid excused absences
 - Late Project submission will not generally be accomodated
-- Let Homework and Tutorial work will not be accepted; however...
+- Late Homework and Tutorial work will not be accepted; however...
   - the highest grade will replace the lowest for each of these categories
   - For additional support contact your [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices)
 
