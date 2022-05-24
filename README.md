@@ -12,9 +12,9 @@ This course transitions the [W22 Online](https://q.utoronto.ca/courses/253019) v
 
 - 2 hours of in-person lecture and interactive class practice quizzes
 
-  > 3 hours of "completion credit" R homework (10%) designed to develop and practice the skills evaluated on the exams (40%) and the course project (25%)
+  > 3 hours of "completion credit" R homework (5%) designed to develop and practice the skills evaluated on the exams (45%) and the course project (20%)
   
-- 1 hour of in-person tutorial activities (15%) focussing on written and verbal comminication
+- 2 hours of in-person tutorial activities (15%) focussing on written and verbal comminication
 
   > 2 hours of written and verbal communication homework (10%) designed to develop and practice the skills evaluated on the exams and the course project
 
@@ -27,7 +27,7 @@ This course transitions the [W22 Online](https://q.utoronto.ca/courses/253019) v
 | | | |
 |-|-|-|
 | 5% R Homework | 10% Written/Verbal Communication Homework | 15% Tutorial Activies |
-| 20% Course project | 20% Midterm and 25% Final exam | 5% Participation |
+| 20% Course project | 20% Midterm and 25% Final exam | 5% Participation Activities |
 
 
 Tutorial attendance is mandatory in the sense that it involves graded in-person activies. 
