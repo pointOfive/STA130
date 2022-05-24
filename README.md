@@ -17,7 +17,7 @@ This course transitions the [Winter 2022 Online](https://q.utoronto.ca/courses/2
   
 - 2 hours of in-person tutorial activities (15%) focussing on written and verbal comminication
 
-  > - 1 hours of written and verbal communication homework (10%) designed to develop and practice the skills evaluated on the exams and the course project
+  > - 1 hour of written and verbal communication homework (10%) designed to develop and practice the skills evaluated on the exams and the course project
 
 ## Course Grading
 
