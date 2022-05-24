@@ -2,7 +2,7 @@
 
 # STA130 (Fall 2022): An Introduction to Statistical Reasoning and Data Science
 
-This course transitions the [Winter 2022 Online](https://q.utoronto.ca/courses/253019) version of this course back to the [Fall 2019 In-Person](https://www.statistics.utoronto.ca/sites/www.statistics.utoronto.ca/files/STA130_syllabus_F19.pdf) format. This is done by translating previous [powerpoint slides and accompanying pre-recorded lectures](https://q.utoronto.ca/courses/253019) into an Rmd beamer pdf presentation format (which is the format required for student project submissions). The course objectives are to develop and practice the two steps the statistical and data science workflow:
+This course transitions the [Winter 2022 Online](https://q.utoronto.ca/courses/253019) version of this course back to the [Fall 2019 In-Person](https://www.statistics.utoronto.ca/sites/www.statistics.utoronto.ca/files/STA130_syllabus_F19.pdf) format. This is done by translating previous [powerpoint slides and accompanying pre-recorded lectures](https://q.utoronto.ca/courses/253019) into an Rmd beamer pdf presentation format (which is the format required for student project submissions). At the highest level, the course objectives are to develop and practice the two steps the statistical and data science workflow:
 
 1. Extract meaning from data through coding and analysis
 2. Communicate learned knowledge in writing and speaking
