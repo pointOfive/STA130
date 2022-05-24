@@ -12,12 +12,12 @@ This course transitions the [Winter 2022 Online](https://q.utoronto.ca/courses/2
 
 - 2 hours of in-person lecture and interactive class practice quizzes
 
-  > 2 hours of review, office hours, and piazza discussion board time
-  > 3 hours of "completion credit" R homework (5%) designed to develop and practice the skills evaluated on the exams (45%) and the course project (20%)
+  > - 2 hours of review, office hours, and piazza discussion board time
+  > - 3 hours of "completion credit" R homework (5%) designed to develop and practice the skills evaluated on the exams (45%) and the course project (20%)
   
 - 2 hours of in-person tutorial activities (15%) focussing on written and verbal comminication
 
-  > 1 hours of written and verbal communication homework (10%) designed to develop and practice the skills evaluated on the exams and the course project
+  > - 1 hours of written and verbal communication homework (10%) designed to develop and practice the skills evaluated on the exams and the course project
 
 ## Course Grading
 
