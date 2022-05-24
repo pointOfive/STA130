@@ -46,6 +46,7 @@ Practice quizzes and other study materials to help prefar for the exams (40%) ar
 ## Communication
 
 | In-person Office Hours TBA | Online Piazza Discussion Board |  
+|-|-|
 | Online Zoom Office Hours TBA | Special inquiries sta130@utorono.ca | 
 
 
