@@ -23,7 +23,7 @@ This course transitions the [Winter 2022 Online](https://q.utoronto.ca/courses/2
 
 | | | |
 |-|-|-|
-| 5% R Homework | 10% Written/Verbal Communication Homework | 15% Tutorial Activies |
+| 5% R Homework | 10% Written/Verbal Communication Homework | 15% In-Person Tutorial Activies |
 | 20% Course project | 20% Midterm and 25% Final exam | 5% Participation Activities |
 
 
