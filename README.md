@@ -2,9 +2,7 @@
 
 # STA130 (Fall 2022): An Introduction to Statistical Reasoning and Data Science
 
-This course transitions the [W22 Online](https://q.utoronto.ca/courses/253019) version of this course to an in-person course by translating previous powerpoint slides and accompanying pre-recorded lectures into an Rmd beamer pdf presentation format (which is the format required for student project submissions). 
-
-The course objectives are to develop and practice the two steps the statistical and data science workflow:
+This course transitions the [W22 Online](https://q.utoronto.ca/courses/253019) version of this course to an in-person course by translating previous powerpoint slides and accompanying pre-recorded lectures into an Rmd beamer pdf presentation format (which is the format required for student project submissions). The course objectives are to develop and practice the two steps the statistical and data science workflow:
 
 1. Extract meaning from data through coding and analysis
 2. Communicate learned knowledge in writing and speaking
