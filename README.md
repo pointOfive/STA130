@@ -24,11 +24,10 @@ This course transitions the [W22 Online](https://q.utoronto.ca/courses/253019) v
 
 ## Course Grading
 
-| | |
-|-|-|
-| 10% R homework | 10% written and verbal communication homework |
-| 15% tutorial communication activies | 25% Course project |
-| 20% Midterm exam | 20% Final exam |
+| | | |
+|-|-|-|
+| 5% R Homework | 10% Written/Verbal Communication Homework | 15% Tutorial Activies |
+| 20% Course project | 20% Midterm and 25% Final exam | 5% Participation |
 
 
 Tutorial attendance is mandatory in the sense that it involves graded in-person activies. 
