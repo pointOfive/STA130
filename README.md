@@ -42,12 +42,8 @@ and 2 hours left available for review, office hours, and piazza discussion board
 | N/A Lectures | Not Recorded | Lecture `.Rmd`+Slides Available |
 | N/A Study Material | Not Graded | Optional Material |
 
-- The "Best 7/10" policy is designed to provide a comfortable buffer against unexpected events you may experience as you acclimate to UofT: do not squander or misuse this safety net!
-
-- The absense policy is designed to facilitate your ability to make wise choices regarding your health:
-if you think it's best to stay home on a given day please do to help build increasing confidence in our in-person environment!
-
-- For support regarding extended absenses please contact your [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices).
+The "Best 7/10" policy is designed to provide a comfortable buffer against unexpected events you may experience as you acclimate to UofT: do not squander or misuse this safety net! The absense policy is designed to facilitate your ability to make wise choices regarding your health:
+if you think it's best to stay home on a given day please do to help build increasing confidence in our in-person environment! For support regarding extended absenses please contact your [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices).
 
 
 ## Help
