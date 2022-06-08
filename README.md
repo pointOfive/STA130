@@ -66,6 +66,26 @@ The data observations simultaneously measure 17 so-called [AP-1 transcription fa
 
 ## Calendar
 
+Fall 2022 semester begins Thursday, September 8th.  Friday, September 9th there is no tutorial. 
+The first day of class and the first day of tutorial occur during the week of September 12th.
+
+| Week of | Topic                                     | Monday Lec    | Thursday 5PM | Friday Tut | Friday 10PM |
+|---------|-------------------------------------------|--------------------|---------------|-------------------|------------|
+| Sep 12  | Jupyterhub, Rstudio, R Basics             | 10:10AM/2:10PM     | HW1 Due       | 10:10AM/2:10PM    | Tut 1 Due  |
+| Sep 19  | Distributions and Statistics              | 10:10AM/2:10PM     | HW2 Due       | 10:10AM/2:10PM    | Tut 2 Due  |
+| Sep 26  | Data Wrangling with Tidy                  | 10:10AM/2:10PM     | HW3 Due       | 10:10AM/2:10PM    | Tut 3 Due  |
+| Oct 3   | Statistical Inference (Single Prop.)      | 10:10AM/2:10PM     | HW4 Due       | 10:10AM/2:10PM    | Tut 4 Due  |
+| Oct 10  | *THANKSGIVING DAY: NO CLASS               |                    |               | 10:10AM/2:10PM    | Tut 5 Projet Introduction |
+| Oct 17  | Permutation Tests for Two Groups          | 10:10AM/2:10PM     | HW5 Due       | 10:10AM/2:10PM    | Tut 6 Due  |
+| Oct 24  | Midterm Review                            | 10:10AM/2:10PM     |               | 10:10AM/2:10PM    | **Midterm Exam**   |
+| Oct 31  | Sampling Dists, Bootstrap CIs             | 10:10AM/2:10PM     | HW6 Due       | 10:10AM/2:10PM    | Tut 7 Due  |
+| Nov 7   | READING WEEK                              |                    |               |                   |            |
+| Nov 14  | Linear Regression I                       | 10:10AM/2:10PM     | HW7 Due       | 10:10AM/2:10PM    | Tut 8 Due  |
+| Nov 21  | Linear Regression II                      | 10:10AM/2:10PM     | HW8 Due       | 10:10AM/2:10PM    | Tut 9 Due  |
+| Nov 28  | Classification Trees                      | 10:10AM/2:10PM     | HW9 Due       | 10:10AM/2:10PM    | Tut 10 Due |
+| Dec 5   | Study Design, Confounding, Ethics         | 10:10AM/2:10PM     | HW10 Due      |                   |            |
+|         | *Oct 10 -> Dec 8th Reschedule **Final Review**   |                    | **Thursday Dec 8th 10:10AM/2:10PM**  |      |            |
+
 ## Outline
 
 ### Week 1: Jupyterhub and Rstudio and R Basics
