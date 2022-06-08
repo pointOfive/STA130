@@ -52,17 +52,6 @@ if you think it's best to stay home on a given day please do to help build incre
 - **General questions**: Online Discussion Board 
 - **Exam/Project absenses**: sta130@utorono.ca
 
-## Course project
-
-The course project will be done in consultation with our "project collaborator" [Dr. Heman Shakeri](https://datascience.virginia.edu/people/heman-shakeri) of the [University of Virginia's](https://www.virginia.edu/) (UVA) [Data Science Institute](https://datascience.virginia.edu/) (DSI). The DSI is a recently created [School](https://datascience.virginia.edu/pages/uva-plans-new-school-data-science) (the 12th) of this [premier](https://www.usnews.com/best-colleges/uva-6968/overall-rankings) US university originally founded by [Thomas Jefferson](https://www.virginia.edu/aboutuva) the [principal author](https://en.wikipedia.org/wiki/Thomas_Jefferson) of the US [Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence).
-
-Dr. Shakeri's research, in conjuction with the [Department of Biomedical Engineering](https://engineering.virginia.edu/departments/biomedical-engineering) and 
-[Systems Biology and Biomedical Data Sciences](https://engineering.virginia.edu/departments/biomedical-engineering/research/systems-biology-and-biomedical-data-sciences),
-is motivated by the experience with cancer of a close family friend. So, Heman (Dr. Shakeri) wants to use "data-driven identification and control of high-dimensional dynamical systems" to detect deviations away from normal cellular function and intervene to interrupt the pregression of cancer before it can establish a deleterious cellular homeostasis in order to  give family's more time with their loved ones and close friends.
-
-The data we will work with is based on advances in the fields of [Flow Cytometry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5939936/) for single cell analysis and [Mass Spectrometry](https://www.broadinstitute.org/technology-areas/what-mass-spectrometry) for measurement of cellular proteomic processes (the [phenotypical process endpoint](https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology) of cellular function and behavior). Based on these technologies, the multivariate landscape of proteomic activity can be measured for a single cell in any experiemental condition for any cell type (e.g., cancerous and benign cellular lines) at scale. By understanding typical cellular homeostatis of healthy and deliterious cells, and observing the phenotypical transformation of cellular proteomic homeostatsis over time in response to different treatments, it is hoped that we will eventually understand how to direct deleterious cellular states to transition into non-deleterious states. I.e., "data-driven identification and control of high-dimensional dynamical systems".
-
-The data observations simultaneously measure 17 so-called [AP-1 transcription factors](https://en.wikipedia.org/wiki/AP-1_transcription_factor) over thousands of cells in a given experiemental condition. By repeatedly observing this protein complex (as is done in this data), the correlation between the different proteins can be observed. Further, the evolution of these dependencies can be observed over time as a response to different interventions. And even further, the emergence of downstream cellular phenotypes in response to changes of the state of the AP-1 system can also be observed and can be characterized through 4 other "phenotype" proteins (whose measurements are also available in this data set). Thus, though our course project, we seek to understand the inter-dependence between the AP-1 proteins, and their driving relationship with downstream cellular phenotypes, which might eventually suggest how we can intervene along this pathway to induce transformation away from deletarious cellular states. 
 
 ## Calendar
 
@@ -75,7 +64,7 @@ The first day of class and the first day of tutorial occur during the week of Se
 | Sep 19  | Distributions and Statistics              | 10:10AM/2:10PM     | HW2 Due       | 10:10AM/2:10PM    | Tut 2 Due  |
 | Sep 26  | Data Wrangling with Tidy                  | 10:10AM/2:10PM     | HW3 Due       | 10:10AM/2:10PM    | Tut 3 Due  |
 | Oct 3   | Statistical Inference (Single Prop.)      | 10:10AM/2:10PM     | HW4 Due       | 10:10AM/2:10PM    | Tut 4 Due  |
-| Oct 10  | *THANKSGIVING DAY: NO CLASS               |                    |               | 10:10AM/2:10PM    | Tut 5 Projet Introduction |
+| Oct 10  | *THANKSGIVING DAY: NO CLASS, RESCHEDULED  |                    |               | 10:10AM/2:10PM    | Tut 5 Projet Introduction |
 | Oct 17  | Permutation Tests for Two Groups          | 10:10AM/2:10PM     | HW5 Due       | 10:10AM/2:10PM    | Tut 6 Due  |
 | Oct 24  | Midterm Review                            | 10:10AM/2:10PM     |               | 10:10AM/2:10PM    | **Midterm Exam**   |
 | Oct 31  | Sampling Dists, Bootstrap CIs             | 10:10AM/2:10PM     | HW6 Due       | 10:10AM/2:10PM    | Tut 7 Due  |
@@ -85,6 +74,19 @@ The first day of class and the first day of tutorial occur during the week of Se
 | Nov 28  | Classification Trees                      | 10:10AM/2:10PM     | HW9 Due       | 10:10AM/2:10PM    | Tut 10 Due |
 | Dec 5   | Study Design, Confounding, Ethics         | 10:10AM/2:10PM     | HW10 Due      |                   |            |
 |         | *Oct 10 -> Dec 8th Reschedule **Final Review**   |                    | **Thursday Dec 8th 10:10AM/2:10PM**  |      |            |
+
+
+## Course project
+
+The course project will be done in consultation with our "project collaborator" [Dr. Heman Shakeri](https://datascience.virginia.edu/people/heman-shakeri) of the [University of Virginia's](https://www.virginia.edu/) (UVA) [Data Science Institute](https://datascience.virginia.edu/) (DSI). The DSI is a recently created [School](https://datascience.virginia.edu/pages/uva-plans-new-school-data-science) (the 12th) of this [premier](https://www.usnews.com/best-colleges/uva-6968/overall-rankings) US university originally founded by [Thomas Jefferson](https://www.virginia.edu/aboutuva) the [principal author](https://en.wikipedia.org/wiki/Thomas_Jefferson) of the US [Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence).
+
+Dr. Shakeri's research, in conjuction with the [Department of Biomedical Engineering](https://engineering.virginia.edu/departments/biomedical-engineering) and 
+[Systems Biology and Biomedical Data Sciences](https://engineering.virginia.edu/departments/biomedical-engineering/research/systems-biology-and-biomedical-data-sciences),
+is motivated by the experience with cancer of a close family friend. So, Heman (Dr. Shakeri) wants to use "data-driven identification and control of high-dimensional dynamical systems" to detect deviations away from normal cellular function and intervene to interrupt the pregression of cancer before it can establish a deleterious cellular homeostasis in order to  give family's more time with their loved ones and close friends.
+
+The data we will work with is based on advances in the fields of [Flow Cytometry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5939936/) for single cell analysis and [Mass Spectrometry](https://www.broadinstitute.org/technology-areas/what-mass-spectrometry) for measurement of cellular proteomic processes (the [phenotypical process endpoint](https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology) of cellular function and behavior). Based on these technologies, the multivariate landscape of proteomic activity can be measured for a single cell in any experiemental condition for any cell type (e.g., cancerous and benign cellular lines) at scale. By understanding typical cellular homeostatis of healthy and deliterious cells, and observing the phenotypical transformation of cellular proteomic homeostatsis over time in response to different treatments, it is hoped that we will eventually understand how to direct deleterious cellular states to transition into non-deleterious states. I.e., "data-driven identification and control of high-dimensional dynamical systems".
+
+The data observations simultaneously measure 17 so-called [AP-1 transcription factors](https://en.wikipedia.org/wiki/AP-1_transcription_factor) over thousands of cells in a given experiemental condition. By repeatedly observing this protein complex (as is done in this data), the correlation between the different proteins can be observed. Further, the evolution of these dependencies can be observed over time as a response to different interventions. And even further, the emergence of downstream cellular phenotypes in response to changes of the state of the AP-1 system can also be observed and can be characterized through 4 other "phenotype" proteins (whose measurements are also available in this data set). Thus, though our course project, we seek to understand the inter-dependence between the AP-1 proteins, and their driving relationship with downstream cellular phenotypes, which might eventually suggest how we can intervene along this pathway to induce transformation away from deletarious cellular states. 
 
 ## Outline
 
