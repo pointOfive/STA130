@@ -2,49 +2,59 @@
 
 # STA130 (Fall 2022): An Introduction to Statistical Reasoning and Data Science
 
-This course transitions the [Winter 2022 Online](https://q.utoronto.ca/courses/253019) version of this course back to the [Fall 2019 In-Person](https://www.statistics.utoronto.ca/sites/www.statistics.utoronto.ca/files/STA130_syllabus_F19.pdf) format. This is done by translating previous [powerpoint slides and accompanying pre-recorded lectures](https://q.utoronto.ca/courses/253019) into an Rmd beamer pdf presentation format (which is the format required for student project submissions). At the highest level, the course objectives are to develop and practice the two steps the statistical and data science workflow:
+Prior to Winter 2020 this was an **In-Person** course (e.g., [F18](https://ntaback.github.io/UofT_STA130/Fall2018/fall2018_course_content.html), 
+[F19](https://www.statistics.utoronto.ca/sites/www.statistics.utoronto.ca/files/STA130_syllabus_F19.pdf), 
+[W20](https://www.statistics.utoronto.ca/sites/www.statistics.utoronto.ca/files/STA130H1S.pdf)).
+From Fall 2020 to Winter 2022 it was transitioned to an **Online** course (e.g., [W22](https://q.utoronto.ca/courses/253019)).
+The current course transitions these iterative course developments back into the previous **In-Person** format. Specifically,
+the Winter 2022 Online [.ppt and pre-recording material](https://q.utoronto.ca/courses/253019) is integrated into leveraged and reworked
+[Rstudio Rmd](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fl%2Fscl%2FAACmrT8hzMyabinD1Ioc4_CWCLbgwhZx4lU&data=05%7C01%7Cscott.schwartz%40utoronto.ca%7C07bd03b4049f4302640108da3e67cd9b%7C78aac2262f034b4d9037b46d56c55210%7C0%7C0%7C637890913830493523%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&sdata=7uY5HYCnQ9Rqp4U5KOSh9UigGyzhCfymDSehiQSC6xA%3D&reserved=0) and [beamer pdf](https://ntaback.github.io/UofT_STA130/Fall2018/fall2018_course_content.html) materials of the previous **In-Person** courses. 
+At the highest level, the course objectives are to develop and practice the two steps the statistical and data science workflow:
 
 1. Extract meaning from data through coding and analysis
 2. Communicate learned knowledge in writing and speaking
 
 
-## Weekly Course Routine
 
-- 2 hours of in-person lecture and interactive class practice quizzes
+## Schedule
 
-  > - 2 hours of review, office hours, and piazza discussion board time
-  > - 3 hours of "completion credit" R homework (5%) designed to develop and practice the skills evaluated on the exams (45%) and the course project (20%)
-  
-- 2 hours of in-person tutorial activities (15%) focussing on written and verbal comminication
+The course (on average across students) should take 10 hours a week with 8 hours allocated for
 
-  > - 1 hour of written and verbal communication homework (10%) designed to develop and practice the skills evaluated on the exams and the course project
+| Section     |             | Monday     | Thursday       | Friday     |
+|-------------|-------------|------------|----------------|------------|
+|  L0101      | 10:10 AM ET | Lec (2hrs) |                | In-Person Tut work (2hrs) |
+|  L0201      | 2:10 PM ET  | Lec (2hrs) |                | In-Person Tut work (2hrs) | 
+| L0101+L0201 | 5:00 PM ET  |            | R (3hr) HW Due |            |
+| L0101+L0201 | 10:00 PM ET |            |                | Tut work (+1hr) Due |
 
-## Course Grading
+and 2 hours left available for review, office hours, and piazza discussion boards.
 
-| | | |
+## Grading
+
+| Components | Notes | Absence Policy |
 |-|-|-|
-| 5% R Homework | 10% Written/Verbal Communication Homework | 15% In-Person Tutorial Activies |
-| 20% Course project | 20% Midterm and 25% Final exam | 5% Participation Activities |
+| 5% R Homework | 10 (0.5%) assignments | Best 7/10 Are Scored |
+| 15% In-Person Tut work | 10 (1.5%) activities | Best 7/10 Are Scored |
+| 20% Course project | | Emergency Extensions ONLY |
+| 20% Midterm | | Excused Absence Rescheduling |
+| 35% Final exam | | Excused Absence Rescheduling |
+| 5% Participation | Mentorship + Surveys | No Extensions Available |
+| N/A Lectures | Not Recorded | Lecture `.Rmd`+Slides Available |
+| N/A Study Material | Not Graded | Optional Material |
+
+- The "Best 7/10" policy is designed to provide a comfortable buffer against unexpected events you may experience as you acclimate to UofT: do not squander or misuse this safety net!
+
+- The absense policy is designed to facilitate your ability to make wise choices regarding your health:
+if you think it's best to stay home on a given day please do to help build increasing confidence in our in-person environment!
+
+- For support regarding extended absenses please contact your [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices).
 
 
-Tutorial attendance is mandatory in the sense that it involves graded in-person activies. 
-Lecture attendance is mandatory in the sense that lectures will not be recorded, but there are no addendance grades for lectures.
-Practice quizzes and other study materials to help prefar for the exams are available, but these are optional in the sense that they are not graded for course points. The participation activities involve surveys and mentorship activies.
+## Help
 
-## Misses Assessments
-
-- Missed Exams may be rescheduled for valid excused absences
-- Late Project submission will not generally be accomodated
-- Late Homework and Tutorial work will not be accepted; however...
-  - the highest grade will replace the lowest for each of these categories
-  - For additional support contact your [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices)
-
-## Communication
-
-| In-person Office Hours TBA | Online Piazza Discussion Board |  
-|-|-|
-| Online Zoom Office Hours TBA | Special inquiries sta130@utorono.ca | 
-
+- **One on one help**: TA Online Office Hours 
+- **General questions**: Online Discussion Board 
+- **Exam/Project absenses**: sta130@utorono.ca
 
 ## Course project
 
@@ -58,6 +68,7 @@ The data we will work with is based on advances in the fields of [Flow Cytometry
 
 The data observations simultaneously measure 17 so-called [AP-1 transcription factors](https://en.wikipedia.org/wiki/AP-1_transcription_factor) over thousands of cells in a given experiemental condition. By repeatedly observing this protein complex (as is done in this data), the correlation between the different proteins can be observed. Further, the evolution of these dependencies can be observed over time as a response to different interventions. And even further, the emergence of downstream cellular phenotypes in response to changes of the state of the AP-1 system can also be observed and can be characterized through 4 other "phenotype" proteins (whose measurements are also available in this data set). Thus, though our course project, we seek to understand the inter-dependence between the AP-1 proteins, and their driving relationship with downstream cellular phenotypes, which might eventually suggest how we can intervene along this pathway to induce transformation away from deletarious cellular states. 
 
+## Calendar
 
 ## Outline
 
