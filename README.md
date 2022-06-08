@@ -73,7 +73,9 @@ The first day of class and the first day of tutorial occur during the week of Se
 | Nov 21  | Linear Regression II                      | 10:10AM/2:10PM     | HW8 Due       | 10:10AM/2:10PM    | Tut 9 Due  |
 | Nov 28  | Classification Trees                      | 10:10AM/2:10PM     | HW9 Due       | 10:10AM/2:10PM    | Tut 10 Due |
 | Dec 5   | Study Design, Confounding, Ethics         | 10:10AM/2:10PM     | HW10 Due      |                   |            |
-|         | *Oct 10 -> Dec 8th Reschedule **Final Review**   |                    | **Thursday Dec 8th 10:10AM/2:10PM**  |      |            |
+|         | *Oct 10 -> Dec 8th Reschedule  |                    | **Thursday**  |      |            |
+|         |  **Final Review**   |                    | **Dec 8th**  |      |            |
+|         |   |                    | **10:10AM/2:10PM**  |      |            |
 
 
 ## Course project
