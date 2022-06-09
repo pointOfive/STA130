@@ -33,16 +33,16 @@ and 2 hours left available for review, office hours, and piazza discussion board
 
 | Components | Notes | Absence Policy |
 |-|-|-|
-| 5% R Homework | 10 (0.5%) assignments | Best 7/10 Are Scored |
-| 15% In-Person Tut work | 10 (1.5%) activities | Best 7/10 Are Scored |
+| 7% R Homework | 9 assignments | Best 7/9 Are Scored |
+| 14% In-Person Tut work | 9 activities | Best 7/9 Are Scored |
 | 20% Course project | | Emergency Extensions ONLY |
 | 20% Midterm | | Excused Absence Rescheduling |
-| 35% Final exam | | Excused Absence Rescheduling |
+| 34% Final exam | | Excused Absence Rescheduling |
 | 5% Participation | Mentorship + Surveys | No Extensions Available |
 | N/A Lectures | Not Recorded | Lecture `.Rmd`+Slides Available |
 | N/A Study Material | Not Graded | Optional Material |
 
-The "Best 7/10" policy is designed to provide a comfortable buffer against unexpected events you may experience as you acclimate to UofT: do not squander or misuse this safety net! The absense policy is designed to facilitate your ability to make wise choices regarding your health:
+The "Best 7/9" policy is designed to provide a comfortable buffer against unexpected events you may experience as you acclimate to UofT: do not squander or misuse this safety net! The absense policy is designed to facilitate your ability to make wise choices regarding your health:
 if you think it's best to stay home on a given day please do to help build increasing confidence in our in-person environment! For support regarding extended absenses please contact your [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices).
 
 
@@ -58,24 +58,26 @@ if you think it's best to stay home on a given day please do to help build incre
 Fall 2022 semester begins Thursday, September 8th.  Friday, September 9th there is no tutorial. 
 The first day of class and the first day of tutorial occur during the week of September 12th.
 
-| Week of | Topic                                     | Monday Lec    | Thursday 5PM | Friday Tut | Friday 10PM |
-|---------|-------------------------------------------|--------------------|---------------|-------------------|------------|
-| Sep 12  | Jupyterhub, Rstudio, R Basics             | 10:10AM/2:10PM     | HW1 Due       | 10:10AM/2:10PM    | Tut 1 Due  |
-| Sep 19  | Distributions and Statistics              | 10:10AM/2:10PM     | HW2 Due       | 10:10AM/2:10PM    | Tut 2 Due  |
-| Sep 26  | Data Wrangling with Tidy                  | 10:10AM/2:10PM     | HW3 Due       | 10:10AM/2:10PM    | Tut 3 Due  |
-| Oct 3   | Statistical Inference (Single Prop.)      | 10:10AM/2:10PM     | HW4 Due       | 10:10AM/2:10PM    | Tut 4 Due  |
-| Oct 10  | *THANKSGIVING DAY: NO CLASS, RESCHEDULED  |                    |               | 10:10AM/2:10PM    | Tut 5 Projet Introduction |
-| Oct 17  | Permutation Tests for Two Groups          | 10:10AM/2:10PM     | HW5 Due       | 10:10AM/2:10PM    | Tut 6 Due  |
-| Oct 24  | Midterm Review                            | 10:10AM/2:10PM     |               | 10:10AM/2:10PM    | **Midterm Exam**   |
-| Oct 31  | Sampling Dists, Bootstrap CIs             | 10:10AM/2:10PM     | HW6 Due       | 10:10AM/2:10PM    | Tut 7 Due  |
-| Nov 7   | READING WEEK                              |                    |               |                   |            |
-| Nov 14  | Linear Regression I                       | 10:10AM/2:10PM     | HW7 Due       | 10:10AM/2:10PM    | Tut 8 Due  |
-| Nov 21  | Linear Regression II                      | 10:10AM/2:10PM     | HW8 Due       | 10:10AM/2:10PM    | Tut 9 Due  |
-| Nov 28  | Classification Trees                      | 10:10AM/2:10PM     | HW9 Due       | 10:10AM/2:10PM    | Tut 10 Due |
-| Dec 5   | Study Design, Confounding, Ethics         | 10:10AM/2:10PM     | HW10 Due      |                   |            |
-|         | *Oct 10 -> Dec 8th Reschedule  |                    | **Thursday**  |      |            |
-|         |  **Final Review**   |                    | **Dec 8th**  |      |            |
-|         |   |                    | **10:10AM/2:10PM**  |      |            |
+| Week of | Topic                                     | Monday Lec     | Thursday 5PM | Friday Tut | Friday 10PM |
+|---------|-------------------------------------------|----------------|--------------|-------------------|------------|
+| Sep 12  | Jupyterhub, Rstudio, R Basics             | 10:10AM/2:10PM | HW1 Due      | 10:10AM/2:10PM    | Tut 1 Due  |
+| Sep 19  | Distributions and Statistics              | 10:10AM/2:10PM | HW2 Due      | 10:10AM/2:10PM    | Tut 2 Due  |
+| Sep 26  | Data Wrangling with Tidy                  | 10:10AM/2:10PM | HW3 Due      | 10:10AM/2:10PM    | Tut 3 Due  |
+| Oct 3   | One and Two Sample Inference              | 10:10AM/2:10PM | HW4 Due      | 10:10AM/2:10PM    | Tut 4 Due  |
+| Oct 10  | *THANKSGIVING DAY: NO CLASS, RESCHEDULED  |                |              | 10:10AM/2:10PM    | **Projet Introduction** |
+| Oct 17  | Sampling Dists and Bootstrap CIs             | 10:10AM/2:10PM | HW5 Due      | 10:10AM/2:10PM    | Tut 5 Due  |
+| Oct 24  | **Midterm Review**                        | 10:10AM/2:10PM |              | 10:10AM/2:10PM    | **Midterm Exam**   |
+| Oct 31  | Linear Regression I                       | 10:10AM/2:10PM | HW6 Due      | 10:10AM/2:10PM    | Tut 6 Due  |
+| Nov 7   | READING WEEK                              |                |              |                   |            |
+| Nov 14  | Linear Regression II                      | 10:10AM/2:10PM | HW7 Due      | 10:10AM/2:10PM    | Tut 7 Due  |
+| Nov 21  | Classification Trees                      | 10:10AM/2:10PM | HW8 Due      | 10:10AM/2:10PM    | Tut 8 Due  |
+| Nov 28  | Study Design, Confounding, Ethics         | 10:10AM/2:10PM | HW9 Due      | 10:10AM/2:10PM    | Tut 9 Due  |
+| Dec 5   | **Final Review**                          | 10:10AM/2:10PM |              |                   |            |
+|         | *Oct 10 -> Dec 8th Reschedule             |                | **Thursday** |                   |            |
+|         |                                           |                | **Dec 8th**  |                   |            |
+|         |                                           |                | **10:10AM/2:10PM**        |      |            |
+|         |                                           |                | **Project (DUE)**  |                   |            |
+|         |                                           |                | **Presentations** |              |            |
 
 
 ## Course project
