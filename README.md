@@ -36,14 +36,22 @@ and 2 hours left available for review, office hours, and piazza discussion board
 | 7% R Homework | 9 assignments | Best 7/9 Are Scored |
 | 14% In-Person Tut work | 9 activities | Best 7/9 Are Scored |
 | 20% Course project | | Emergency Extensions ONLY |
-| 20% Midterm | | Excused Absence Rescheduling |
+| 20% Midterm | | Reweights to Final if Missed |
 | 34% Final exam | | Excused Absence Rescheduling |
 | 5% Participation | Mentorship + Surveys | No Extensions Available |
 | N/A Lectures | Not Recorded | Lecture `.Rmd`+Slides Available |
 | N/A Study Material | Not Graded | Optional Material |
 
-The "Best 7/9" policy is designed to provide a comfortable buffer against unexpected events you may experience as you acclimate to UofT: do not squander or misuse this safety net! The absense policy is designed to facilitate your ability to make wise choices regarding your health:
-if you think it's best to stay home on a given day please do to help build increasing confidence in our in-person environment! For support regarding extended absenses please contact your [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices).
+#### What is this "Best 7/9" thing about?
+
+This should provide a comfortable buffer against the usual unexpected events that students having a "normal" experience acclimating to the UofT context.
+If you are finding that this isn't quite cutting it in your case, then you need to contact your [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) to begin the process of making arrangments to deal with 
+
+
+do not squander or misuse this safety net! The absense policy is designed to facilitate your ability to make wise choices regarding your health:
+if you think it's best to stay home on a given day please do to help build increasing confidence in our in-person environment! 
+
+For support regarding extended absenses please 
 
 
 ## Help
