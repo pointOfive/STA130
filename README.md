@@ -58,7 +58,7 @@ Contingencies involving **three absences** due to health related issues can be i
 
 ## Help
 
-| One on one help | General questions | 
+| One on One Help | General Questions | 
 |-|-|
 | TA Online Office Hours | Online Discussion Board |
 
