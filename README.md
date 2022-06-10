@@ -35,12 +35,12 @@ and 2 hours left available for review, office hours, and piazza discussion board
 |------------------------|----------------------|---------------------------|-----------------------|
 | 7% R Homework          | 9 assignments        | Best 7/9 are Scored       | See below             |
 | 14% In-Person Tut work | 9 activities         | Best 7/9 are Scored       | See below             |
-| 20% Course project     |                      | Emergency Extensions ONLY | Accepted up to Dec 8th |
+| 20% Course project     |                      | Due Dec 8th               | Extensions for emergencies ONLY  |
 | 20% Midterm            |                      | Reweights to Final if Missed | Automatic          |
 | 34% Final exam         |                      | Excused Absence Rescheduling | Handled through FAS |
-| 5% Participation       | Mentorship + Surveys | Due End of Term | No Extensions Available |
-| N/A Lectures           | Not Recorded         | N/A             | Lecture `.Rmd`+Slides Available |
-| N/A Study Material     | Not Graded           | Optional Material |
+| 5% Participation       | Mentorship + Surveys | Due Dec 8th               | No Extensions Available |
+| N/A Lectures           | Not Recorded         | N/A                       | Lecture `.Rmd`+Slides Available |
+| N/A Study Material     | Not Graded           | Optional Material         | N/A                   |
 
 
 #### Best 7/9 policy
