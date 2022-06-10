@@ -51,7 +51,7 @@ For example, if you're not feeling well and think it's best to stay home on a gi
 this policy allows you to confidently make that choice (and help build increasing confidence in our in-person environment)! 
 Contingencies involving **three absences** due to health related issues can be initiated through your [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) and can be accomodated upon the recommendation of the Registrar with the following limitations:
 
-- Accomodations involving **three absences** due to health related issues will be considered provided that notice of the advent of special circumstances is made to both (a) the registrar and (b) sta130@utorono.ca within one week of return to University activities. 
+- Accomodations involving **three absences** due to health related issues will be considered provided that notice of the advent of special circumstances is made to both (a) the [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) and (b) sta130@utorono.ca within one week of return to University activities. 
 - Accomodations beyond the "Best 7/9 policy" involving one or two health related absences will not be considered.
 - Accomodations beyond the "Best 7/9 policy" involving time management challenges will not be considered.
 
@@ -66,7 +66,7 @@ Contingencies involving **three absences** due to health related issues can be i
 | Accomodation | Contingency Request Recipient(s) | Notes |
 |-|-|-|
 | Best 7/9 policy | [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) + sta130@utorono.ca | Notice must be provided within one week of return to UofT activities |
-| Final Exam | [Missed Exam Petition](https://www.artsci.utoronto.ca/current/faculty-registrar/petitions/deferred-exams) | The Faculty of Arts and Sciences administers the final exam |
+| Final Exam | [FAS Missed Exam Petition](https://www.artsci.utoronto.ca/current/faculty-registrar/petitions/deferred-exams) | The Faculty of Arts and Sciences administers the final exam |
 | Miderm Exam | Final Reweighting | This is automatic so no request is required | 
 | Course Porject | sta130@utorono.ca | Extensions will be granted only for actual emergency events |
 
