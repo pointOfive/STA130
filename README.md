@@ -66,7 +66,7 @@ Contingencies involving **three absences** due to health related issues can be i
 | Accomodation | Contingency Request Recipient(s) | Notes |
 |-|-|-|
 | Best 7/9 policy | [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) + sta130@utorono.ca | Notice must be provided within one week of return to UofT activities |
-| Final Exam | [FAS Missed Exam Petition](https://www.artsci.utoronto.ca/current/faculty-registrar/petitions/deferred-exams) | The Faculty of Arts and Sciences administers the final exam |
+| Final Exam | [FAS Exam Deferrel Petition](https://www.artsci.utoronto.ca/current/faculty-registrar/petitions/deferred-exams) | The Faculty of Arts and Sciences administers the final exam |
 | Miderm Exam | Final Reweighting | This is automatic so no request is required | 
 | Course Porject | sta130@utorono.ca | Extensions will be granted only for Emergency Absenses ONLY |
 
