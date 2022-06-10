@@ -60,7 +60,7 @@ Contingencies involving **three absences** due to health related issues can be i
 
 - **One on one help**: TA Online Office Hours 
 - **General questions**: Online Discussion Board 
-- **Exam/Project absenses**: sta130@utorono.ca
+- **Accomodation Requests**: [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) + sta130@utorono.ca
 
 
 ## Calendar
