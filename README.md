@@ -35,7 +35,7 @@ and 3 hours left available for study and review, office hours and piazza discuss
 |------------------------|----------------------|---------------------------|-----------------------|
 | 7% R Homework          | 9 assignments        | Best 7/9 are Scored       | See below             |
 | 14% In-Person Tut work | 9 activities         | Best 7/9 are Scored       | See below             |
-| 20% Course project     |                      | Due Dec 8th               | Extensions for emergencies ONLY  |
+| 20% Course project     |                      | Due Dec 8th               | Emergency Absenses ONLY  |
 | 20% Midterm            |                      | Reweights to Final if Missed | Automatic          |
 | 34% Final exam         |                      | Excused Absence Rescheduling | Handled through FAS |
 | 5% Participation       | Mentorship + Surveys | Due Dec 8th               | No Extensions Available |
@@ -68,7 +68,7 @@ Contingencies involving **three absences** due to health related issues can be i
 | Best 7/9 policy | [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) + sta130@utorono.ca | Notice must be provided within one week of return to UofT activities |
 | Final Exam | [FAS Missed Exam Petition](https://www.artsci.utoronto.ca/current/faculty-registrar/petitions/deferred-exams) | The Faculty of Arts and Sciences administers the final exam |
 | Miderm Exam | Final Reweighting | This is automatic so no request is required | 
-| Course Porject | sta130@utorono.ca | Extensions will be granted only for actual emergency events |
+| Course Porject | sta130@utorono.ca | Extensions will be granted only for Emergency Absenses ONLY |
 
 ## Calendar
 
