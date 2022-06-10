@@ -18,7 +18,7 @@ At the highest level, the course objectives are to develop and practice the two 
 
 ## Schedule
 
-The course (on average across students) should take 10 hours a week with 8 hours allocated for
+The course (on average across students) should take 10 hours a week with 7 hours allocated for
 
 | Section     |             | Monday     | Thursday       | Friday     |
 |-------------|-------------|------------|----------------|------------|
