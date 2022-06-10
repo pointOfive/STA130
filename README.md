@@ -24,10 +24,10 @@ The course (on average across students) should take 10 hours a week with 8 hours
 |-------------|-------------|------------|----------------|------------|
 |  L0101      | 10:10 AM ET | Lec (2hrs) |                | In-Person Tut work (2hrs) |
 |  L0201      | 2:10 PM ET  | Lec (2hrs) |                | In-Person Tut work (2hrs) | 
-| L0101+L0201 | 5:00 PM ET  |            | R (3hr) HW Due |            |
+| L0101+L0201 | 5:00 PM ET  |            | R (2hr) HW Due |            |
 | L0101+L0201 | 10:00 PM ET |            |                | Tut work (+1hr) Due |
 
-and 2 hours left available for review, office hours, and piazza discussion boards.
+and 3 hours left available for study and review, office hours and piazza discussion boards, and eventual team project work.
 
 ## Grading
 
