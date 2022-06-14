@@ -9,12 +9,18 @@ From Fall 2020 to Winter 2022 it was transitioned to an **Online** course (e.g.,
 The current course transitions these iterative course developments back into the previous **In-Person** format. Specifically,
 the Winter 2022 Online [.ppt and pre-recording material](https://q.utoronto.ca/courses/253019) is integrated into leveraged and reworked
 [Rstudio Rmd](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fl%2Fscl%2FAACmrT8hzMyabinD1Ioc4_CWCLbgwhZx4lU&data=05%7C01%7Cscott.schwartz%40utoronto.ca%7C07bd03b4049f4302640108da3e67cd9b%7C78aac2262f034b4d9037b46d56c55210%7C0%7C0%7C637890913830493523%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&sdata=7uY5HYCnQ9Rqp4U5KOSh9UigGyzhCfymDSehiQSC6xA%3D&reserved=0) and [beamer pdf](https://ntaback.github.io/UofT_STA130/Fall2018/fall2018_course_content.html) materials of the previous **In-Person** courses. 
-At the highest level, the course objectives are to develop and practice the two steps the statistical and data science workflow:
+At the highest level, the course activities are meant to develop and practice the two steps the statistical and data science workflow:
 
 1. Extract meaning from data through coding and analysis
-2. Communicate learned knowledge in writing and speaking
+2. Communicate findings through writing and speaking
 
+To break this down a little bit further, STA130 has the following 5 "Learning Objectives":
 
+1. Implement the computational steps involved in the management and statistical analysis of data using R.
+2. Carry out a variety of statistical analyses in R and interpret the results of the analyses.
+3. Clearly communicate the results of statistical analyses to technical and non-technical audiences.
+4. Identify appropriate uses of statistical methods to answer questions, including their strengths and weaknesses.
+5. Describe how statistical methods can be used to learn from data, including methods for description, explanation, and prediction.
 
 ## Schedule
 
