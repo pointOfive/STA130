@@ -2,6 +2,10 @@
 
 # Fall 2022 STA130: An Introduction to Statistical Reasoning and Data Science
 
+> *Welcome to your Fall 2022 semester and STA130!* **STA130 Lectures** are Monday's 10:10AM/2:10PM ET for L0101/L0201, and **STA130 Tutorials** are Friday's 10:10AM/2:10PM ET for L0101/L0201. The Fall 2022 term begins September 8, but we won't meet in person for a tutorial on the first Friday, September 9th; instead, you are expected to use your two-hour tutorial block to review the course website and get a head start on familiarizing yourself with R based on your review of the course website.  See you in Lecture on Monday, September 12th!
+
+---
+
 Prior to Winter 2020 this was an **In-Person** course (e.g., [F18](https://ntaback.github.io/UofT_STA130/Fall2018/fall2018_course_content.html), 
 [F19](https://www.statistics.utoronto.ca/sites/www.statistics.utoronto.ca/files/STA130_syllabus_F19.pdf), 
 [W20](https://www.statistics.utoronto.ca/sites/www.statistics.utoronto.ca/files/STA130H1S.pdf)).
