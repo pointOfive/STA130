@@ -1,6 +1,6 @@
 
 
-# STA130 (Fall 2022): An Introduction to Statistical Reasoning and Data Science
+# Fall 2022 STA130: An Introduction to Statistical Reasoning and Data Science
 
 Prior to Winter 2020 this was an **In-Person** course (e.g., [F18](https://ntaback.github.io/UofT_STA130/Fall2018/fall2018_course_content.html), 
 [F19](https://www.statistics.utoronto.ca/sites/www.statistics.utoronto.ca/files/STA130_syllabus_F19.pdf), 
