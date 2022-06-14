@@ -122,6 +122,7 @@ The data observations simultaneously measure 17 so-called [AP-1 transcription fa
 Week 1 is concerned with introducing students to R and [Rstudio](https://www.rstudio.com/) using [UofT's Jupyterhub](https://jupyter.utoronto.ca). Our primary reference resources in this task are
 
 - the [R for Data Science](https://r4ds.had.co.nz/workflow-basics.html) textbook by Hadley Wickham & Garret Grolemund
+  - or Garret Grolemund's previous incarnation [Hands-On Programming with R])(https://d1b10bmlvqabco.cloudfront.net/attach/ighbo26t3ua52t/igp9099yy4v10/igz7vp4w5su9/OReilly_HandsOn_Programming_with_R_2014.pdf)
 - the [DoSS Toolkit](https://dosstoolkit.com/) created by seasoned STA130 Profs. Alexander and Caetano et al.
   - specifically the [Rstudio](https://dosstoolkit.com/#hello-world), [errors](https://dosstoolkit.com/#operating-in-an-error-prone-world),
 and [packages](https://dosstoolkit.com/#holding-the-chaos-at-bay) [tutorials](https://dosstoolkit.com/#if-you-have-never-used-r-before)
