@@ -14,7 +14,7 @@ At the highest level, the course activities are meant to develop and practice th
 1. Extract meaning from data through coding and analysis
 2. Communicate findings through writing and speaking
 
-To be a little more precise, STA130 has the following **5 Learning Objectives**:
+More specifically, STA130 has the following **5 Learning Objectives**:
 
 1. Implement the computational steps involved in the management and statistical analysis of data using R.
 2. Carry out a variety of statistical analyses in R and interpret the results of the analyses.
