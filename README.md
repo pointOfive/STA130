@@ -125,7 +125,8 @@ Week 1 is concerned with introducing students to R and [Rstudio](https://www.rst
 - the [DoSS Toolkit](https://dosstoolkit.com/) created by seasoned STA130 Profs. Alexander and Caetano et al.
   - specifically the [Rstudio](https://dosstoolkit.com/#hello-world), [errors](https://dosstoolkit.com/#operating-in-an-error-prone-world),
 and [packages](https://dosstoolkit.com/#holding-the-chaos-at-bay) [tutorials](https://dosstoolkit.com/#if-you-have-never-used-r-before)
-- and R+Rstudio [primers](https://rstudio.cloud/learn/primers/1.2) and [Rmarkdown](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown.pdf) and [Rstudio](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rstudio-ide.pdf) cheatsheets
+- R+Rstudio [primers](https://rstudio.cloud/learn/primers/1.2) and [Rmarkdown](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown.pdf) and [Rstudio](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rstudio-ide.pdf) cheatsheets
+- and [free online introductions to R](https://www.datacamp.com/courses/free-introduction-to-r) from learning websites like [datacamp](https://www.datacamp.com/).
 
 > The [UofT Jupyterhub](https://jupyter.utoronto.ca) is a phenomenal resource; however, it is subject to service outages from time to time (which have in the past coincided with assignment due dates), and it can take a long time to load when there's a lot of simultaneous user demand (if a lot of students in our or another class log in at once). When you cannot use [UofT Jupyterhub](https://jupyter.utoronto.ca) you must use your own [local Rstudio instance](https://www.rstudio.com/).
 
