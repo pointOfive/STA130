@@ -33,6 +33,19 @@ Specifically, STA130 has the following **5 Learning Objectives**:
 4. Identify appropriate uses of statistical methods to answer questions, including their strengths and weaknesses.
 5. Describe how statistical methods can be used to learn from data, including methods for description, explanation, and prediction.
 
+# Table of Contents
+
+Please see below for information regarding the following topics:
+
+- [Schedule](#schedule)
+- [Grading](#grading)
+  - [Best 7/9 policy](#best-79-policy)
+- [Help](#help)
+  - [Accomodations](#accomodations)
+- [Calendar](#calendar)
+- [Course project](#course-project)
+- And [Outline](#outline) (where you'll find all the course material)
+
 ## Schedule
 
 The course (on average across students) should take 10 hours a week with 7 hours allocated for
@@ -79,6 +92,7 @@ Contingencies involving **three absences** due to health related issues can be i
 |-|-|
 | TA Online Office Hours | Online Discussion Board |
 
+### Accomodations
 
 | Accomodation | Contingency Request Recipient(s) | Notes |
 |-|-|-|
