@@ -16,12 +16,16 @@ From Fall 2020 to Winter 2022 it was transitioned to an **Online** course (e.g.,
 The current course transitions these iterative course developments back into the previous **In-Person** format. Specifically,
 the Winter 2022 Online [.ppt and pre-recording material](https://q.utoronto.ca/courses/253019) is integrated into leveraged and reworked
 [Rstudio Rmd](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fl%2Fscl%2FAACmrT8hzMyabinD1Ioc4_CWCLbgwhZx4lU&data=05%7C01%7Cscott.schwartz%40utoronto.ca%7C07bd03b4049f4302640108da3e67cd9b%7C78aac2262f034b4d9037b46d56c55210%7C0%7C0%7C637890913830493523%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&sdata=7uY5HYCnQ9Rqp4U5KOSh9UigGyzhCfymDSehiQSC6xA%3D&reserved=0) and [beamer pdf](https://ntaback.github.io/UofT_STA130/Fall2018/fall2018_course_content.html) materials of the previous **In-Person** courses. 
-At the highest level, the course activities are meant to develop and practice the two steps the statistical and data science workflow:
+At the highest level, the course activities are meant to develop and practice the final two steps the statistical and data science workflow:
 
-1. Extract meaning from data through coding and analysis
-2. Communicate findings through writing and speaking
 
-More specifically, STA130 has the following **5 Learning Objectives**:
+|1. We'll not be making you struggle to get data yourself<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>2. Extract meaning from data through coding and analysis<br/><br/>3. Communicate findings through writing and speaking|<img src="https://github.com/allisonhorst/stats-illustrations/raw/master/openscapes/environmental-data-science-r4ds-general.png" width=75%>|
+|-|:-:|
+| | Dr. Julia Lowndes' version of Grolemund & Wickham's<br/>classic R4DS schematic illustrated by Allison Horst.|
+
+### The 5 Learning Objectives of STA130
+
+Specifically, STA130 has the following **5 Learning Objectives**:
 
 1. Implement the computational steps involved in the management and statistical analysis of data using R.
 2. Carry out a variety of statistical analyses in R and interpret the results of the analyses.
