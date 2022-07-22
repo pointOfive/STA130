@@ -21,7 +21,7 @@ At the highest level, the course activities are meant to develop and practice th
 
 |1. We'll not be making you struggle to get data yourself<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>2. Extract meaning from data through coding and analysis<br/><br/>3. Communicate findings through writing and speaking|<img src="https://github.com/allisonhorst/stats-illustrations/raw/master/openscapes/environmental-data-science-r4ds-general.png" width=75%>|
 |-|:-:|
-| | Dr. Julia Lowndes' version of Grolemund & Wickham's<br/>classic R4DS schematic illustrated by Allison Horst.|
+| | [Dr. Julia Lowndes'](https://github.com/allisonhorst/stats-illustrations/raw/master/openscapes/) version of Grolemund & Wickham's<br/>classic R4DS schematic illustrated by [@Allison_Horst]([https://github.com/allisonhorst/stats-illustrations](https://github.com/allisonhorst/stats-illustrations#hello)).|
 
 ### The 5 Learning Objectives of STA130
 
