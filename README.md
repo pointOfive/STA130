@@ -167,7 +167,34 @@ and [packages](https://dosstoolkit.com/#holding-the-chaos-at-bay) [tutorials](ht
 | [Homework Assignment](https://github.com/SamanthaJoCaetano/STA130-W22-ProblemSet1) and [Practice Quiz](https://q.utoronto.ca/courses/253019/quizzes/236277/edit) | |
 
 
-### Module 2: Distributions and Statistics
+### Week 2: Data Types, ggplot2, and (lower case) statistics
+
+Week 2 explores the technical details of R data types, which directly informs the choice of appropriate visualizations of data. The `ggplot2` ["grammer of graphics"](https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448/ref=as_li_ss_tl) syntax is then introduced over this foundation using the examples of `bar`, `histogram`, and `boxplot` `geom_`'s.  Standard location (mean, median, mode) and scale (range, IQR, variance, standard deviation) statistics for characterizing distributions are introduced, and higher order distributional characterizations are covered.
+
+https://rstudio.cloud/learn/primers/1
+https://dosstoolkit.com/#totally-addicted-to-base
+
+## ggplot2
+
+- [Official Cheatsheet](https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf)
+  - [Finding Answers](https://ggplot2.tidyverse.org/#getting-help)
+- [Learning Resources](https://ggplot2.tidyverse.org/#learning-ggplot2)
+  - [Official Usage](https://ggplot2.tidyverse.org/#usage)
+  - [R4DS Textbook](https://r4ds.had.co.nz/data-visualisation.html)
+  - [DoSS Toolkit](https://dosstoolkit.com/#to-ggplot-or-not-to-ggplot)
+
+## Markdown
+
+Markdown supports efficiency and productivity, and it's needed for our class.
+
+  - [RStudio Markdown Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)  
+    - [R4DS Introduction](https://r4ds.had.co.nz/r-markdown.html)
+    - [RStudio Introduction](https://rmarkdown.rstudio.com/)
+  - [Markdown Tutorial](https://www.markdowntutorial.com/)
+  
+## For Reference Only: ***NOT a Reading Recommendation***
+- [knitr Documentation](https://yihui.org/knitr/) 
+- [.Rmd Documentation](https://bookdown.org/yihui/rmarkdown/)
 
 ### Module 3: Data Wrangling with Tidy
 
