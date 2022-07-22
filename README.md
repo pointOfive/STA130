@@ -142,7 +142,7 @@ The data observations simultaneously measure 17 so-called [AP-1 transcription fa
 
 ## Outline
 
-### Week 1: Jupyterhub, Rstudio/Rmd, and R Basics (Including Libraries)
+### Week 1: Jupyterhub, Rstudio/Rmd, and R Basics and Libraries)
 
 Week 1 is concerned with introducing students to [R](https://www.r-project.org/) and R libraries (like [tidyverse](https://www.tidyverse.org/)), [Rstudio](https://www.rstudio.com/) and [UofT's Jupyterhub](https://jupyter.utoronto.ca). Our primary reference resources in this task are
 
