@@ -2,7 +2,7 @@
 
 # Fall 2022 STA130: An Introduction to Statistical Reasoning and Data Science
 
-> *Welcome to your Fall 2022 semester and STA130!* **STA130 Lectures** are Monday's 10:10AM/2:10PM ET for L0101/L0201, and **STA130 Tutorials** are Friday's 10:10AM/2:10PM ET for L0101/L0201. The Fall 2022 term begins September 8, but we won't meet in person for a tutorial on the first Friday, September 9th; instead, you are expected to use your two-hour tutorial block to review the course website and get a head start on familiarizing yourself with R based on your review of the course website.  See you in Lecture on Monday, September 12th!
+> *Welcome to your Fall 2022 semester and STA130!* **STA130 Lectures** are Monday's 9:10AM/2:10PM ET for L0101/L0201, and **STA130 Tutorials** are Friday's 9:10AM/2:10PM ET for L0101/L0201. The Fall 2022 term begins September 8, but we won't meet in person for a tutorial on the first Friday, September 9th; instead, you are expected to use your two-hour tutorial block to review the course website and get a head start on familiarizing yourself with R based on your review of the course website.  See you in Lecture on Monday, September 12th!
 > 
 > -- STA130 Instructor Prof. Scott Schwartz, Director of Data Science for the Department of Statistical Sciences
 > 
@@ -52,7 +52,7 @@ The course (on average across students) should take 10 hours a week with 7 hours
 
 | Section     |             | Monday     | Thursday       | Friday     |
 |-------------|-------------|------------|----------------|------------|
-|  L0101      | 10:10 AM ET | Lec (2hrs) |                | In-Person Tut work (2hrs) |
+|  L0101      |  9:10 AM ET | Lec (2hrs) |                | In-Person Tut work (2hrs) |
 |  L0201      | 2:10 PM ET  | Lec (2hrs) |                | In-Person Tut work (2hrs) | 
 | L0101+L0201 | 5:00 PM ET  |            | R (2hr) HW Due |            |
 | L0101+L0201 | 10:00 PM ET |            |                | Tut work (+1hr) Due |
@@ -108,22 +108,22 @@ The first day of class and the first day of tutorial occur during the week of Se
 
 | Week of | Topic                                     | Monday Lec     | Thursday 5PM | Friday Tut | Friday 10PM |
 |---------|-------------------------------------------|----------------|--------------|-------------------|------------|
-| Sep 12  | Jupyterhub, Rstudio, R Basics             | 10:10AM/2:10PM | HW1 Due      | 10:10AM/2:10PM    | Tut 1 Due  |
-| Sep 19  | Distributions and Statistics              | 10:10AM/2:10PM | HW2 Due      | 10:10AM/2:10PM    | Tut 2 Due  |
-| Sep 26  | Data Wrangling with Tidy                  | 10:10AM/2:10PM | HW3 Due      | 10:10AM/2:10PM    | Tut 3 Due  |
-| Oct 3   | One and Two Sample Inference              | 10:10AM/2:10PM | HW4 Due      | 10:10AM/2:10PM    | Tut 4 Due  |
-| Oct 10  | *THANKSGIVING DAY: NO CLASS, RESCHEDULED  |                |              | 10:10AM/2:10PM    | **Projet Introduction** |
-| Oct 17  | Sampling Dists and Bootstrap CIs             | 10:10AM/2:10PM | HW5 Due      | 10:10AM/2:10PM    | Tut 5 Due  |
-| Oct 24  | **Midterm Review**                        | 10:10AM/2:10PM |              | 10:10AM/2:10PM    | **Midterm Exam**   |
-| Oct 31  | Linear Regression I                       | 10:10AM/2:10PM | HW6 Due      | 10:10AM/2:10PM    | Tut 6 Due  |
+| Sep 12  | Jupyterhub, Rstudio, R Basics             | 9:10AM/2:10PM | HW1 Due      | 9:10AM/2:10PM    | Tut 1 Due  |
+| Sep 19  | Distributions and Statistics              | 9:10AM/2:10PM | HW2 Due      | 9:10AM/2:10PM    | Tut 2 Due  |
+| Sep 26  | Data Wrangling with Tidy                  | 9:10AM/2:10PM | HW3 Due      | 9:10AM/2:10PM    | Tut 3 Due  |
+| Oct 3   | One and Two Sample Inference              | 9:10AM/2:10PM | HW4 Due      | 9:10AM/2:10PM    | Tut 4 Due  |
+| Oct 10  | *THANKSGIVING DAY: NO CLASS, RESCHEDULED  |                |              | 9:10AM/2:10PM    | **Projet Introduction** |
+| Oct 17  | Sampling Dists and Bootstrap CIs          | 9:10AM/2:10PM | HW5 Due      | 9:10AM/2:10PM    | Tut 5 Due  |
+| Oct 24  | **Midterm Review**                        | 9:10AM/2:10PM |              | 9:10AM/2:10PM    | **Midterm Exam**   |
+| Oct 31  | Linear Regression I                       | 9:10AM/2:10PM | HW6 Due      | 9:10AM/2:10PM    | Tut 6 Due  |
 | Nov 7   | READING WEEK                              |                |              |                   |            |
-| Nov 14  | Linear Regression II                      | 10:10AM/2:10PM | HW7 Due      | 10:10AM/2:10PM    | Tut 7 Due  |
-| Nov 21  | Classification Trees                      | 10:10AM/2:10PM | HW8 Due      | 10:10AM/2:10PM    | Tut 8 Due  |
-| Nov 28  | Study Design, Confounding, Ethics         | 10:10AM/2:10PM | HW9 Due      | 10:10AM/2:10PM    | Tut 9 Due  |
-| Dec 5   | **Final Review**                          | 10:10AM/2:10PM |              |                   |            |
+| Nov 14  | Linear Regression II                      | 9:10AM/2:10PM | HW7 Due      | 9:10AM/2:10PM    | Tut 7 Due  |
+| Nov 21  | Classification Trees                      | 9:10AM/2:10PM | HW8 Due      | 9:10AM/2:10PM    | Tut 8 Due  |
+| Nov 28  | Study Design, Confounding, Ethics         | 9:10AM/2:10PM | HW9 Due      | 9:10AM/2:10PM    | Tut 9 Due  |
+| Dec 5   | **Final Review**                          | 9:10AM/2:10PM |              |                   |            |
 |         | *Oct 10 -> Dec 8th Reschedule             |                | **Thursday** |                   |            |
 |         |                                           |                | **Dec 8th**  |                   |            |
-|         |                                           |                | **10:10AM/2:10PM**        |      |            |
+|         |                                           |                | **9:10AM/2:10PM**        |      |            |
 |         |                                           |                | **Project (DUE)**  |                   |            |
 |         |                                           |                | **Presentations** |              |            |
 
