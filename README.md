@@ -180,6 +180,11 @@ Week 2 differentiates ([numerical](https://www.jove.com/science-education/12573/
 | &nbsp;&nbsp;&nbsp; [R4DS Textbook](https://r4ds.had.co.nz/data-visualisation.html)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [.Rmd Documentation](https://bookdown.org/yihui/rmarkdown/) |
 | &nbsp;&nbsp;&nbsp; [DoSS Toolkit](https://dosstoolkit.com/#to-ggplot-or-not-to-ggplot)| [Markdown Tutorial](https://www.markdowntutorial.com/)|
 
+#### Week 2 Course Material
+
+| [Slides](https://github.com/pointOfive/STA130_Week1_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Slides&urlpath=rstudio%2F&branch=main)], [Demo 1](https://github.com/pointOfive/STA130_Week1_Demo1) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Demo1&urlpath=rstudio%2F&branch=main)], [Demo 2](https://github.com/pointOfive/STA130_Week1_Demo2) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Demo2&urlpath=rstudio%2F&branch=main)] | [Questions](https://pollev.com/sta) [[Round 1](https://PollEv.com/surveys/Sn8Y5ZdhDdocnPBg5lWU3/respond), [Round 2](https://PollEv.com/surveys/ZajOSOpWDmepur3hTlXKV/respond), [Round 3](https://PollEv.com/surveys/ytOu9cYQoL6Oyon1dmUWr/respond), [Round 4](https://PollEv.com/surveys/5gpW9MIWgzTuE81nEJDaH/respond), [Round 5](https://PollEv.com/surveys/k46QXuZy1j1a9kuXy4eY0/respond)] |
+|-|-|
+| [Homework Assignment](https://github.com/SamanthaJoCaetano/STA130-W22-ProblemSet1) and [Practice Quiz](https://q.utoronto.ca/courses/253019/quizzes/236277/edit) | |
 
 ### Module 3: Data Wrangling with Tidy
 
