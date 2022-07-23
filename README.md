@@ -174,11 +174,11 @@ Week 2 differentiates ([numerical](https://www.jove.com/science-education/12573/
 | ggplot2 Resources and References | Markdown Resources and References |
 |----------------------------------|-----------------------------------|
 | [Official Cheatsheet](https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf)|[RStudio Markdown Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)|
-| - [Finding Answers](https://ggplot2.tidyverse.org/#getting-help)| - [R4DS Introduction](https://r4ds.had.co.nz/r-markdown.html) |
-| [Learning Resources](https://ggplot2.tidyverse.org/#learning-ggplot2)| - [RStudio Introduction](https://rmarkdown.rstudio.com/) |
-| - [Official Usage](https://ggplot2.tidyverse.org/#usage)| - - [knitr Documentation](https://yihui.org/knitr/) | 
-| - [R4DS Textbook](https://r4ds.had.co.nz/data-visualisation.html)| - - [.Rmd Documentation](https://bookdown.org/yihui/rmarkdown/) |
-| - [DoSS Toolkit](https://dosstoolkit.com/#to-ggplot-or-not-to-ggplot)| [Markdown Tutorial](https://www.markdowntutorial.com/)|
+| &nbsp;&nbsp;&nbsp; [Finding Answers](https://ggplot2.tidyverse.org/#getting-help)| &nbsp;&nbsp;&nbsp; [R4DS Introduction](https://r4ds.had.co.nz/r-markdown.html) |
+| [Learning Resources](https://ggplot2.tidyverse.org/#learning-ggplot2)| &nbsp;&nbsp;&nbsp; [RStudio Introduction](https://rmarkdown.rstudio.com/) |
+| &nbsp;&nbsp;&nbsp; [Official Usage](https://ggplot2.tidyverse.org/#usage)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [knitr Documentation](https://yihui.org/knitr/) | 
+| &nbsp;&nbsp;&nbsp; [R4DS Textbook](https://r4ds.had.co.nz/data-visualisation.html)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [.Rmd Documentation](https://bookdown.org/yihui/rmarkdown/) |
+| &nbsp;&nbsp;&nbsp; [DoSS Toolkit](https://dosstoolkit.com/#to-ggplot-or-not-to-ggplot)| [Markdown Tutorial](https://www.markdowntutorial.com/)|
 
 
 ### Module 3: Data Wrangling with Tidy
