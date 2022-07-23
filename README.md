@@ -169,12 +169,9 @@ and [packages](https://dosstoolkit.com/#holding-the-chaos-at-bay) [tutorials](ht
 
 ### Week 2: Data Types, ggplot2, and (lower case) statistics
 
-Week 2 explores the technical details of R data types, which directly informs the choice of appropriate visualizations of data. The `ggplot2` ["grammer of graphics"](https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448/ref=as_li_ss_tl) syntax is then introduced over this foundation using the examples of `bar`, `histogram`, and `boxplot` `geom_`'s.  Standard location (mean, median, mode) and scale (range, IQR, variance, standard deviation) statistics for characterizing distributions are introduced, and higher order distributional characterizations are covered.
+Week 2 differentiates ([numerical](https://www.jove.com/science-education/12573/how-data-are-classified-numerical-data) and [ordinal](https://www.jove.com/science-education/12574/ordinal-level-of-measurement) and [nominal](https://www.jove.com/science-education/12798/nominal-level-of-measurement) data types [categorical](https://www.jove.com/science-education/12797/how-data-are-classified-categorical-data)) and explores the [technical details](https://r4ds.had.co.nz/vectors.html) of [R data types](https://rstudio.cloud/learn/primers/1), which directly informs the choice of [appropriate visualizations of data](https://www.jove.com/science-education-library/160/summarizing-and-visualizing-data). Building on this foundation, the `ggplot2` ["grammer of graphics"](https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448/ref=as_li_ss_tl) syntax is then introduced (with associated learning and refernce resources listed below) using the examples of `bar`, `histogram`, and `boxplot` `geom_`'s (but of course there are [MANY](https://datavizcatalogue.com), [MANY](https://www.data-to-viz.com) other kinds of plots, too). The `fig.size` and `fig.width` [R Markdown sizing parameters](https://r4ds.had.co.nz/graphics-for-communication.html?q=fig.width#figure-sizing) are also introduced at this stage (and again see below for additional R Markdown learning and reference materials). Standard location ([mean](https://www.jove.com/science-education/12810/arithmetic-mean), [median](https://www.jove.com/science-education/12815/median), [mode](https://www.jove.com/science-education/12814/what-is-a-mode)) and [scale](https://www.scribbr.com/statistics/variability/) (range, IQR, variance, standard deviation) statistics for characterizing distributions are introduced, and higher order distributional characterizations are covered ([skewness](https://www.jove.com/science-education/12816/skewness), etc.).
 
-https://rstudio.cloud/learn/primers/1
-https://dosstoolkit.com/#totally-addicted-to-base
-
-## ggplot2
+#### ggplot2 Resources and References 
 
 - [Official Cheatsheet](https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf)
   - [Finding Answers](https://ggplot2.tidyverse.org/#getting-help)
@@ -183,18 +180,17 @@ https://dosstoolkit.com/#totally-addicted-to-base
   - [R4DS Textbook](https://r4ds.had.co.nz/data-visualisation.html)
   - [DoSS Toolkit](https://dosstoolkit.com/#to-ggplot-or-not-to-ggplot)
 
-## Markdown
-
-Markdown supports efficiency and productivity, and it's needed for our class.
+#### Markdown Resources and References
 
   - [RStudio Markdown Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)  
     - [R4DS Introduction](https://r4ds.had.co.nz/r-markdown.html)
     - [RStudio Introduction](https://rmarkdown.rstudio.com/)
+        - [knitr Documentation](https://yihui.org/knitr/) 
+        - [.Rmd Documentation](https://bookdown.org/yihui/rmarkdown/)
   - [Markdown Tutorial](https://www.markdowntutorial.com/)
-  
-## For Reference Only: ***NOT a Reading Recommendation***
-- [knitr Documentation](https://yihui.org/knitr/) 
-- [.Rmd Documentation](https://bookdown.org/yihui/rmarkdown/)
+
+
+
 
 ### Module 3: Data Wrangling with Tidy
 
