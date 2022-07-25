@@ -76,14 +76,36 @@ and 3 hours left available for study and review, office hours and piazza discuss
 #### Best 7/9 policy
 
 For students having a "normal" experience acclimating to the UofT context, 
-this should provide a comfortable buffer against minor unexpected events or schedule management growing pains.
-For example, if you're not feeling well and think it's best to stay home on a given day,
-this policy allows you to confidently make that choice (and help build increasing confidence in our in-person environment)! 
+this should provide a comfortable buffer against minor unexpected events or schedule management growing pains. For example
+
+- if you have several assignments due at once and are unable to complete an R Homework assignment in time
+- if you're not feeling well and are unable to attend TUT and turn in the TUT activity work in time
+
+you'll get a "zero" but if this is one of your two lowest two scores in a categegory it will be dropped won't count towards that categories final score.
+
+***Physical Health***: This policy is intended support your ability to make positive personal and community health choices.  This policy should encourage staying home and resting when it's the right thing to do. 
+
+***Personal Well-Being***: It is increasingly understood that belonging and community are extremely important for our emotional health, and coming to class and doing your work is a part of your sense of belonging in our community. Sometimes it can be good to "take a break", too, and this policy certainly covers that.
+
 Contingencies involving **three absences** due to health related issues can be initiated through your [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) and can be accomodated upon the recommendation of the Registrar with the following limitations:
 
 - Accomodations involving **three absences** due to health related issues will be considered provided that notice of the advent of special circumstances is made to both (a) the [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) and (b) sta130@utorono.ca within one week of return to University activities. 
 - Accomodations beyond the "Best 7/9 policy" involving one or two health related absences will not be considered.
 - Accomodations beyond the "Best 7/9 policy" involving time management challenges will not be considered.
+- So if you've already "used up" your "Best 7/9 policy" but then get sick, you won't be able to omit additional "zeros".
+
+#### Participation
+
+Complete the DoSS STA130 mentorship program. The STA130 mentorship program is composed of 3 pillars designed to facilitate your engagement and inclusion in our community. To get credit for each pillar you must BOTH (a) attend an event (b) and submit a reflection of your experience. Reflections are due by 10 p.m. ET on December 8th.
+
+- Mentor meeting (1%)
+- Career event (1%)
+- Social event (1%) 
+
+Help us with "get to know the class" and "how'd we do" surveys.
+
+- Beginning of course survey (1%)
+- End of course survey (1%)
 
 
 ## Help
@@ -96,7 +118,8 @@ Contingencies involving **three absences** due to health related issues can be i
 
 | Accomodation | Contingency Request Recipient(s) | Notes |
 |-|-|-|
-| Best 7/9 policy | [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) + sta130@utorono.ca | Notice must be provided within one week of return to UofT activities |
+| Best 7/9 policy | Automatic: no student action required |
+| Extended 7/9 policy | [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) + sta130@utorono.ca | Notice must be provided within one week of return to UofT activities |
 | Final Exam | [FAS Exam Deferrel Petition](https://www.artsci.utoronto.ca/current/faculty-registrar/petitions/deferred-exams) | The Faculty of Arts and Sciences administers the final exam |
 | Miderm Exam | Final Reweighting | This is automatic so no request is required | 
 | Course Porject | sta130@utorono.ca | Extensions will be granted only for Emergency Absenses ONLY |
