@@ -41,6 +41,8 @@ Please see below for information regarding the following topics:
 - [Schedule](#schedule)
 - [Grading](#grading)
   - [Best 7/9 policy](#best-79-policy)
+    - [Student Health](#best-79-policy)  
+  - [Participation](#participation)
 - [Help](#help)
   - [Accomodations](#accomodations)
 - [Calendar](#calendar)
