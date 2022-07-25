@@ -47,7 +47,7 @@ Please see below for information regarding the following topics:
 - [Help](#help)
 - [Calendar](#calendar)
 - [Course project](#course-project)
-- And [Outline](#outline) (where you'll find all the course material)
+- [Outline](#outline) (where you'll find all the course material)
 
 ## Schedule
 
