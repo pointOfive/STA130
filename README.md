@@ -189,9 +189,9 @@ and [packages](https://dosstoolkit.com/#holding-the-chaos-at-bay) [tutorials](ht
 
 #### Week 1 Course Material
 
-| [Slides](https://github.com/pointOfive/STA130_Week1_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Slides&urlpath=rstudio%2F&branch=main)], [Demo 1](https://github.com/pointOfive/STA130_Week1_Demo1) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Demo1&urlpath=rstudio%2F&branch=main)], [Demo 2](https://github.com/pointOfive/STA130_Week1_Demo2) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Demo2&urlpath=rstudio%2F&branch=main)] | [Questions](https://pollev.com/sta) [[Round 1](https://PollEv.com/surveys/Sn8Y5ZdhDdocnPBg5lWU3/respond), [Round 2](https://PollEv.com/surveys/ZajOSOpWDmepur3hTlXKV/respond), [Round 3](https://PollEv.com/surveys/ytOu9cYQoL6Oyon1dmUWr/respond), [Round 4](https://PollEv.com/surveys/5gpW9MIWgzTuE81nEJDaH/respond), [Round 5](https://PollEv.com/surveys/k46QXuZy1j1a9kuXy4eY0/respond)] |
-|-|-|
-| [Homework Assignment](https://github.com/SamanthaJoCaetano/STA130-W22-ProblemSet1) and [Practice Quiz](https://q.utoronto.ca/courses/253019/quizzes/236277/edit) | |
+| [Slides](https://github.com/pointOfive/STA130_Week1_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Slides&urlpath=rstudio%2F&branch=main)] | [Demo](https://github.com/pointOfive/STA130_Week1_Demo1) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Demo1&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/SamanthaJoCaetano/STA130-W22-ProblemSet1) due [on Quercus](https://q.utoronto.ca/courses/253019/quizzes/236277/edit) by 5 p.m. ET Thursday |
+|-|-|-|
+| [Class PollEV Questions](https://pollev.com/sta) | Round [1](https://PollEv.com/surveys/Sn8Y5ZdhDdocnPBg5lWU3/respond), [2](https://PollEv.com/surveys/ZajOSOpWDmepur3hTlXKV/respond), [3](https://PollEv.com/surveys/ytOu9cYQoL6Oyon1dmUWr/respond), [4](https://PollEv.com/surveys/5gpW9MIWgzTuE81nEJDaH/respond), [5](https://PollEv.com/surveys/k46QXuZy1j1a9kuXy4eY0/respond) |  |
 
 
 ### Week 2: Data Types, ggplot2, and (lower case) statistics
@@ -209,9 +209,9 @@ Week 2 differentiates ([numerical](https://www.jove.com/science-education/12573/
 
 #### Week 2 Course Material
 
-| [Slides](https://github.com/pointOfive/STA130_Week1_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Slides&urlpath=rstudio%2F&branch=main)], [Demo 1](https://github.com/pointOfive/STA130_Week1_Demo1) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Demo1&urlpath=rstudio%2F&branch=main)], [Demo 2](https://github.com/pointOfive/STA130_Week1_Demo2) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Demo2&urlpath=rstudio%2F&branch=main)] | [Questions](https://pollev.com/sta) [[Round 1](https://PollEv.com/surveys/Sn8Y5ZdhDdocnPBg5lWU3/respond), [Round 2](https://PollEv.com/surveys/ZajOSOpWDmepur3hTlXKV/respond), [Round 3](https://PollEv.com/surveys/ytOu9cYQoL6Oyon1dmUWr/respond), [Round 4](https://PollEv.com/surveys/5gpW9MIWgzTuE81nEJDaH/respond), [Round 5](https://PollEv.com/surveys/k46QXuZy1j1a9kuXy4eY0/respond)] |
-|-|-|
-| [Homework Assignment](https://github.com/SamanthaJoCaetano/STA130-W22-ProblemSet1) and [Practice Quiz](https://q.utoronto.ca/courses/253019/quizzes/236277/edit) | |
+| [Slides](https://github.com/pointOfive/STA130_Week1_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Slides&urlpath=rstudio%2F&branch=main)] | [Demo](https://github.com/pointOfive/STA130_Week1_Demo1) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Demo1&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/SamanthaJoCaetano/STA130-W22-ProblemSet1) due [on Quercus](https://q.utoronto.ca/courses/253019/quizzes/236277/edit) by 5 p.m. ET Thursday |
+|-|-|-|
+| [Class PollEV Questions](https://pollev.com/sta) | Round [1](https://PollEv.com/surveys/Sn8Y5ZdhDdocnPBg5lWU3/respond), [2](https://PollEv.com/surveys/ZajOSOpWDmepur3hTlXKV/respond), [3](https://PollEv.com/surveys/ytOu9cYQoL6Oyon1dmUWr/respond), [4](https://PollEv.com/surveys/5gpW9MIWgzTuE81nEJDaH/respond), [5](https://PollEv.com/surveys/k46QXuZy1j1a9kuXy4eY0/respond) | [Practice Quiz](https://q.utoronto.ca/courses/253019/quizzes/236277/edit)| |
 
 ### Module 3: Data Wrangling with Tidy
 
