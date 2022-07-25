@@ -4,7 +4,9 @@
 
 > *Welcome to your Fall 2022 semester and STA130!* **STA130 Lectures** are Monday's 9:10AM/2:10PM ET for L0101/L0201, and **STA130 Tutorials** are Friday's 9:10AM/2:10PM ET for L0101/L0201. The Fall 2022 term begins September 8, but we won't meet in person for a tutorial on the first Friday, September 9th; instead, you are expected to use your two-hour tutorial block to review the course website and get a head start on familiarizing yourself with R based on your review of the course website.  See you in Lecture on Monday, September 12th!
 > 
-> -- STA130 Instructor Prof. Scott Schwartz, Director of Data Science for the Department of Statistical Sciences
+> -- STA130 Instructor Prof. Scott Schwartz  
+> Assistant Professor, Teaching Stream  
+> Director, Data Science Programs for Statistical Science   
 > 
 > P.S. Just call me Scott
 ---
