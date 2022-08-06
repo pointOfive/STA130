@@ -142,9 +142,9 @@ The first day of class and the first day of tutorial occur during the week of Se
 | Sep 12  | Jupyterhub, Rstudio, R Basics             | 9:10AM/2:10PM | HW1 Due      | 9:10AM/2:10PM    | Tut 1 Due  |
 | Sep 19  | Distributions and Statistics              | 9:10AM/2:10PM | HW2 Due      | 9:10AM/2:10PM    | Tut 2 Due  |
 | Sep 26  | Data Wrangling with Tidy                  | 9:10AM/2:10PM | HW3 Due      | 9:10AM/2:10PM    | Tut 3 Due  |
-| Oct 3   | One and Two Sample Inference              | 9:10AM/2:10PM | HW4 Due      | 9:10AM/2:10PM    | Tut 4 Due  |
-| Oct 10  | *THANKSGIVING DAY: NO CLASS, RESCHEDULED  |                |              | 9:10AM/2:10PM    | **Projet Introduction** |
-| Oct 17  | Sampling Dists and Bootstrap CIs          | 9:10AM/2:10PM | HW5 Due      | 9:10AM/2:10PM    | Tut 5 Due  |
+| Oct 3   | One and Two Sample Hypothesis Testing     | 9:10AM/2:10PM | HW4 Part 2 Due| 9:10AM/2:10PM    | Tut 4 Due  |
+| Oct 10  | *THANKSGIVING DAY: NO CLASS, RESCHEDULED  |               | HW4 Part 3 Due| 9:10AM/2:10PM    | **Projet Introduction** |
+| Oct 17  | Statistical Inference with Bootstrap CIs  | 9:10AM/2:10PM | HW5 Due      | 9:10AM/2:10PM    | Tut 5 Due  |
 | Oct 24  | **Midterm Review**                        | 9:10AM/2:10PM |              | 9:10AM/2:10PM    | **Midterm Exam**   |
 | Oct 31  | Linear Regression I                       | 9:10AM/2:10PM | HW6 Due      | 9:10AM/2:10PM    | Tut 6 Due  |
 | Nov 7   | READING WEEK                              |                |              |                   |            |
@@ -234,16 +234,31 @@ Week 3 is concerned with defining "Tidy Data" and introducing the following "Dat
 For additional introductions to these topics see the [Tidy Data](https://r4ds.had.co.nz/tidy-data.html) and [Transformation](http://r4ds.had.co.nz/transform.html) of the [R4DS textbook](https://r4ds.had.co.nz/index.html).  For additional `dplyr` resources please see the UofT [DoSS Toolkit](https://dosstoolkit.com/#hand-me-my-plyrs) and the official [`dplyr`](https://dplyr.tidyverse.org/#cheat-sheet) cheat sheet. Additional advanced data wrangling tools are available through the [dplyr](https://dplyr.tidyverse.org/) and [tidyr](https://tidyr.tidyverse.org/) [tidyverse](https://www.tidyverse.org/) libraries.  For additional `tidyr` resources please see the official [`tidyr`](https://tidyr.tidyverse.org/#cheatsheet) cheat sheet.
 
 
+### Week 4: One and Two Sample Hypothesis Tests
+
+| [Slides](https://github.com/pointOfive/STA130_Week4_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week4_Slides&urlpath=rstudio%2F&branch=main)] + [Demo](https://github.com/pointOfive/STA130_Week4_Demo) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week4_Demo&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/pointOfive/STA130_ProblemSet4) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet4&urlpath=rstudio%2F&branch=main)] **Part 2** and **Part 3** due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/269908)  |
+|-|-|
+| **Strongly Recommended** Ungraded Quercus Practice Quizzes on | respectively at 5 p.m. ET on Thursday **this week and next** | 
+| [One](https://q.utoronto.ca/courses/239327/quizzes/271075) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_PracticeQuiz_OneSampleHypothesisTest_ABCD&urlpath=rstudio%2F&branch=main)] and [Two](https://q.utoronto.ca/courses/239327/quizzes/271083) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_PracticeQuiz_TwoSampleHypothesisTest_gratitude&urlpath=rstudio%2F&branch=main)] Sample Hypothesis Tests | Ungraded Optional Quercus Practice Quizzes [One]() and [Two]() |
+
+Week 4 is extremely packed begins an extensive coding assignment, **Part 2** of which is due at the original 5 p.m. ET time on Thursday during **Week 4**, and **Part 3** of which is due at 5 p.m. ET time on Thursday of **Week 5**. The remaining parts of the coding assignment are Part 1 which is optional but is designed to be more guided and structed to support learning if needed, Part 4 which is optional but ***Strongly Recommended** practice material to test and support your learning, and Part 5 which is optional additional practice. 
+
+- There is so much available practice material because there is no lecture during Week 5 after hypothesis testing, and it's important to stay engaged with R and the class so that your progressing and retention provides good support leading into the Week 7 midterm. They hypothesis testing material is potentially quite challenging, and certainly very dense, so the more bolstering and reinforcement of your learning the better.
 
 
+for a Single Sample Proportion
+Permutation Tests for Two Groups
 
-### Module 4: Statistical Inference for a Single Sample Proportion
+### Week 5: No Lecture but Course Project Introductions in Tut
 
-### Module 5: Permutation Tests for Two Groups
+Complete **Part 3** of the **Week 4** [Problem Set](https://github.com/pointOfive/STA130_ProblemSet4) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet4&urlpath=rstudio%2F&branch=main)] due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/269908) by 5 p.m. ET on Thursday.
 
-### Midterm Review
+- It is **Strongly Recommended** that you complete the *Ungraded Quercus Practice Quizzes* on [One](https://q.utoronto.ca/courses/239327/quizzes/271075) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_PracticeQuiz_OneSampleHypothesisTest_ABCD&urlpath=rstudio%2F&branch=main)] and [Two](https://q.utoronto.ca/courses/239327/quizzes/271083) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_PracticeQuiz_TwoSampleHypothesisTest_gratitude&urlpath=rstudio%2F&branch=main)] Sample Hypothesis Tests to bolster and reinforce of your learning of the potentially challenging, and certainly very dense, hypothesis testing material.
 
-### Module 6: Sampling Distributions and Bootstrap Confidence Intervals
+### Week 6: Statistical Inference Bootstrap Confidence Intervals
+
+### Week 6: Midterm Review and Friday Midterm during Tut
+
 
 ### Module 7: Linear Regression I
 
