@@ -222,8 +222,9 @@ Week 2 differentiates ([numerical](https://www.jove.com/science-education/12573/
 
 Week 3 is concerned with defining "Tidy Data" and introducing the following "Data Wrangling" functions from the `dplyr` library.
 
-|`filter()` |`mutate()`   |`mean()`  |`min()`     |`&`         |
+|           |             |          |            |            |
 |-----------|-------------|----------|------------|------------|
+|`filter()` |`mutate()`   |`mean()`  |`min()`     |`&`         |
 |`select()` |`case_when()`|`median()`|`max()`     |`\|`        |
 |`rename()` |`summarise()`|`var()`   |`quantile()`|`!`         |
 |`arrange()`|`group_by()` |`sd()`    |`n()`       |`%in%`      |
