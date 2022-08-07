@@ -247,10 +247,8 @@ Week 4 is extremely packed begins an extensive coding assignment, **Part 2** of 
 
 The actual topic of Week 4 is a specific kind of *Statistical Inference* called *Hypothesis Testing*. Specifically, we'll examine *simulation*-based hypothesis testing for one sample and *permutation*-based hypothesis testing for two samples. We also address Type I and Type II hypothesis testing errors. This all relies largely on the two new R coding constructs of `sample(x, size=n, prop=1/n, replace=FALSE)` and `for (i in 1:N){ ... }`, as well as some cleaver use of `group_by()`, `summarise()` and a new `diff()` function.
 
-- If you would find a textbook presentation of these topics helpful, check out sections 2.1, 2.2, 2.3, and 2.4 of [Introductory Statistics with Randomization and Simulation from OpenIntro](https://leanpub.com/isrs).  
-  - You can download the textbook for free by using a price of 0, which is absolutely fine since you're students.
-- For an additional presentation of two sample permutation-based hypothesis testing, check out the [excellent slides](https://ntaback.github.io/UofT_STA130/Fall2018/week6/sta130_oct15_week6-annotated.pdf) from a previous STA130 instructor. 
-  - This slides are especially recommended for their compelling data examples of gender bias in promotion recommendation and whether or not you can recover from an all-nighter in a couple days.
+> - If you would find a textbook presentation of these topics helpful, check out sections 2.1, 2.2, 2.3, and 2.4 of [Introductory Statistics with Randomization and Simulation from OpenIntro](https://leanpub.com/isrs). You can download the textbook for free by using a price of 0, which is absolutely fine since you're students.
+> - For an additional presentation of two sample permutation-based hypothesis testing, check out the [excellent slides](https://ntaback.github.io/UofT_STA130/Fall2018/week6/sta130_oct15_week6-annotated.pdf) from a previous STA130 instructor. These slides are especially recommended for their compelling data examples of gender bias in promotion recommendation and whether or not you can recover from an all-nighter in a couple days.
 
 ### Week 5: Introduction to the Course Project 
 
