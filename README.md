@@ -211,7 +211,7 @@ Of the analyses proposed above, we've so far only covered **Hypothesis Testing**
 
 #### Your Project Poster will be evaluated based on the presentation of 3 of the 5 distinct categories of analyses noted above (Hypothesis Testing, Confidence Intervals, Correlation, Regression, Classification) and the use of supporting visualizations and explanation.
 
-*Outstanding projects will successfully accomplish the required tasks as part of a coherent narrative addressing the bigger picture of the project.*
+*Outstanding projects will successfully accomplish the required tasks as part of a coherent narrative addressing the bigger picture of the project: what is "good" cellular homeostasis, and how can "bad" cellular homeostasis be changed to be "good"?*
 
 > For the purposes of the course project, your objective is to answer three questions like those from 1-6 above for our data from our collaborator Dr. Shakeri. Question 7 is not required for the project, but you may be interested in pursuing it anyway:
 > - How do the observed correlations evolve over time under the different experimental conditions?
