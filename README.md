@@ -177,14 +177,14 @@ In my career I've worked in [Integrative Biology](https://sites.cns.utexas.edu/j
 
 Now, if you didn't catch all (or any of that) on your first reading, that sounds about right.  I'm a seasoned professional (I got my PhD in 2010) and you're a first year college student... I have a 20-year head start on you. Let me break it down for you a little more with more focus on the data rather than the science and technology.
 
-> The data observations simultaneously measure 17 so-called [AP-1 transcription factors](https://en.wikipedia.org/wiki/AP-1_transcription_factor) 
-> and 4 phenotype proteins. So there are 21 total variables, 17 of which are thought of as "casues" and 4 of which are thought of as "outcomes". Each measurement is taken on a signle cell; but, we can actually measure lots and lots of individual cells; and, we can do the measurements under different experiemental conditions. This lets us repeatedly observe these 21 variables over lots of different cells under lots of different treatment conditions; and, we can also measure the different treatment conditions at different stages of progression.
+> The data observations simultaneously measure 22 so-called [AP-1 transcription factors](https://en.wikipedia.org/wiki/AP-1_transcription_factor) 
+> and 4 phenotype proteins. So there are 24 total variables, 22 of which are thought of as "casues" and 4 of which are thought of as "outcomes". Each measurement is taken on a signle cell; but, we can actually measure lots and lots of individual cells; and, we can do the measurements under different experiemental conditions. This lets us repeatedly observe these 21 variables over lots of different cells under lots of different treatment conditions; and, we can also measure the different treatment conditions at different stages of progression.
 > - How can we measure the progression over time? Actually, we can't measure the same cells over and over. To make a measurement on a cell we have to destroy it... but, if we take a batch of cells (in a specific experimental condition) then we can split the cells up into groups and make the measurements on the different groups at different times; thus, we observe "the progression of the experimental condition over time".
 >
 > So for each experimental condition $x$ and time $t$ we have the tidy data table
 >
 >
->| | TF1 | TF2 | TF3 | TF4 | $\vdots$| TF14 | TF15 | TF16 | TF17 | Y1 | Y2 | Y3 | Y4 |
+>| | TF1 | TF2 | TF3 | TF4 | $\vdots$| TF19 | TF20 | TF21 | TF22 | Y1 | Y2 | Y3 | Y4 |
 >|-|-----|-----|-----|-----|---------|------|------|------|------|----|----|----|----|
 >|1|     |     |     |     |         |      |      |      |      |    |    |    |    |
 >|2|     |     |     |     |         |      |      |      |      |    |    |    |    |
@@ -224,6 +224,31 @@ Of the analyses proposed above, we've so far only covered **Hypothesis Testing**
 > If there are certain correlation structures in the TF proteins that leads to good and bad phenotype outcome states Y, can we affect the correlation structure of the TF proteins with some treatment which changes the state from a bad phenotype to a good one.
 
 There will be 3 project teams of 3-4 students per TUT group. Working groups are one of the primary communities we are a part of in life. Take advantage of the opportunity to make connections with your peers!  Collaborative work is -- and I cannot stress this enough -- **A HUGE** part of the being a Statisticain or a Data Scientist. So take this opportunity to practice being a good team member. Learn from your peers, meet your peers where they're at and be charitable and generous in your interactions with them, and do your best to be supportive and helpful to your team.  You will need to work as a team to plan your project strategy, divide and assign tasks, and collaboratively improve and refine your work. Be constructive and help synergize your teams potential!
+
+### Course project data
+
+The data for the course project comes from [this article](https://www.biorxiv.org/content/10.1101/2021.12.06.471514v1.full) finding that the 
+"AP-1 transcription factor network" (i.e., the relative distributions and dependency relationships of transcription factors) are predictive of "cellular plasticity in melanoma" (i.e., how easily changable the phenotypes are melanoma cell lines), and is available [here]().
+
+
+| Phenotype Indicators      | MiTFg | Sox10 | NGFR | AXL | | | |
+|--------------------------:|-------|-------|------|-----|-------------|-------------|-------------|
+| AP-1 transcription factors| ATF2  |ATF3   | ATF4 | ATF5|Phospho_ATF1 | Phospho_ATF2 | Phospho_ATF4|
+|                           | ATF6  | JunB  |c_Jun |JunD | Phospho_S6  |Phospho_c_Jun | Phospho_Erk1 |
+|    NF_kappaB              | Fra1  | Fra2  | c_Fos|Ki_67 | Phospho_Fra1 | Phospho_c_Fos | Phospho_p38 |
+
+
+The cellular phenotypes of melanoma cell can be characterized in terms of the HIGH/LOW balance of the four phenotype indicators MiTFg, NGFR, SOX10, and AXL as follows
+
+| Cellular Phenotype \ Gene  | MiTFg| NGFR | SOX10 | AXL |
+|----------------------------|------|------|-------|-----|
+| Undifferentiated           | LOW  | LOW  | LOW   | HIGH|
+| Neural crest-like          | LOW  | HIGH | HIGH  | HIGH| 
+| Transitory                 | HIGH | HIGH | HIGH  | LOW |
+| Melanocytic                | HIGH | HIGH | LOW   | LOW |
+
+where the HIGH/LOW distinctions are determined empirically from the data.
+
 
 ## Outline
 
