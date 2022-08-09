@@ -184,14 +184,14 @@ Now, if you didn't catch all (or any of that) on your first reading, that sounds
 > So for each experimental condition $x$ and time $t$ we have the tidy data table
 >
 >
->| | TF1 | TF2 | TF3 | TF4 | $\vdots$| TF19 | TF20 | TF21 | TF22 | Y1 | Y2 | Y3 | Y4 |
->|-|-----|-----|-----|-----|---------|------|------|------|------|----|----|----|----|
->|1|     |     |     |     |         |      |      |      |      |    |    |    |    |
->|2|     |     |     |     |         |      |      |      |      |    |    |    |    |
->|$\vdots$|  |   |   |     |         |      |      |      |      |    |    |    |    |
->|$n_{xt}$|  |   |   |     |         |      |      |      |      |    |    |    |    |
+>| | TF1 | TF2 | TF3 |  $\vdots$| TF20 | TF21 | TF22 | Y1 | Y2 | Y3 | Y4 | Drug | Dosage | Time | Rep |
+>|-|-----|-----|-----|----------|------|------|------|----|----|----|----|------|--------|------|-----|
+>|1|     |     |     |          |      |      |      |    |    |    |    |      |        |      |     |
+>|2|     |     |     |          |      |      |      |    |    |    |    |      |        |      |     |
+>|$\vdots$|  |   |   |          |      |      |      |    |    |    |    |      |        |      |     |
+>|$n_{xt}$|  |   |   |          |      |      |      |    |    |    |    |      |        |      |     |
 >
-> where the total number of observations $n_{xt}$ depends on condition $x$ and time $t$ (because we're measuring different batches of cells so we don't always have the same number).
+> where the total number of observations $n_{xt}$ depends on condition $x$ and time $t$ (because we're measuring different batches of cells so we don't always have the same number).  The experimental conditions $x$ are defined by two drugs and their dosage, and each condition is repeated a few times for validation purposes.
 
 This should be a little more comprehensible now. And actually, you've just had your first formal experience as a statistical consultant!  How so?  Well, in my experience as a statistical, bioinformatic, and data science consultant, the exercise you've just done is exactly what happens.  You meet someone, they tell you about their applied problem, and then you would work to learn what the context is and understand what their problem actually is.  So if you need, review things here a little bit more, and work to make yourself more comfortable with what this project is all about!  
 
