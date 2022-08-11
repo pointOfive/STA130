@@ -164,7 +164,7 @@ The first day of class and the first day of tutorial occur during the week of Se
 
 ## Course project
 
-The course project is meant to give you an example of what it can be like to be a statistician doing applied research work.  To give you an authentic, real experience I'd like you to join me on one of my own current projects. This way you'll be able to see what real research work is like (at least for an "$n \text{ of } 1$", me!).
+The course project is meant to give you an example of what it can be like to be a statistician doing applied research work.  To give you an authentic, real experience I'd like you to join me on one of my own current projects. This way you'll be able to see what real research work is like (at least for an ' $n \text{ of } 1$ ', me!).
 
 Before I moved to UofT I taught at the [University of Virginia](https://www.virginia.edu/) [School of Data Science](https://datascience.virginia.edu/).
 
