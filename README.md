@@ -139,26 +139,26 @@ Help us with "get to know the class" and "how'd we do" surveys.
 Fall 2022 semester begins Thursday, September 8th.  Friday, September 9th there is no tutorial. 
 The first day of class and the first day of tutorial occur during the week of September 12th.
 
-| Week of | Topic                                     | Monday Lec     | Thursday 5PM | Friday Tut | Friday 10PM |
-|---------|-------------------------------------------|----------------|--------------|-------------------|------------|
-| Sep 12  | Jupyterhub, Rstudio, R Basics             | 9:10AM/2:10PM | HW1 Due      | 9:10AM/2:10PM    | Tut 1 Due  |
-| Sep 19  | Distributions and Statistics              | 9:10AM/2:10PM | HW2 Due      | 9:10AM/2:10PM    | Tut 2 Due  |
-| Sep 26  | Data Wrangling with Tidy                  | 9:10AM/2:10PM | HW3 Due      | 9:10AM/2:10PM    | Tut 3 Due  |
-| Oct 3   | One and Two Sample Hypothesis Testing     | 9:10AM/2:10PM | HW45Part2 Due| 9:10AM/2:10PM    | Tut 4 Due  |
-| Oct 10  | *THANKSGIVING DAY: NO CLASS, RESCHEDULED  |               | HW45Part3 Due| 9:10AM/2:10PM    | **Projet Introduction** |
-| Oct 17  | Bootstrap Confidence Intervals            | 9:10AM/2:10PM | HW6 Due      | 9:10AM/2:10PM    | Tut 5 Due  |
-| Oct 24  | **Midterm Review**                        | 9:10AM/2:10PM |              | 9:10AM/2:10PM    | **Midterm Exam**   |
-| Oct 31  | Linear Regression I                       | 9:10AM/2:10PM | HW7 Due      | 9:10AM/2:10PM    | Tut 6 Due  |
-| Nov 7   | READING WEEK                              |                |              |                   |            |
-| Nov 14  | Linear Regression II                      | 9:10AM/2:10PM | HW8 Due      | 9:10AM/2:10PM    | Tut 7 Due  |
-| Nov 21  | Classification Trees                      | 9:10AM/2:10PM | HW9 Due      | 9:10AM/2:10PM    | Tut 8 Due  |
-| Nov 28  | Study Design, Confounding, Ethics         | 9:10AM/2:10PM | HW10 Due      | 9:10AM/2:10PM    | Tut 9 Due  |
-| Dec 5   | **Final Review**                          | 9:10AM/2:10PM |              |                   |            |
-|         | *Oct 10 -> Dec 8th Reschedule             |                | **Thursday** |                   |            |
-|         |                                           |                | **Dec 8th**  |                   |            |
-|         |                                           |                | **9:10AM/2:10PM**        |      |            |
-|         |                                           |                | **Project (DUE)**  |                   |            |
-|         |                                           |                | **Presentations** |              |            |
+| Week | Week of | Topic                                     | Monday Lec     | Thursday 5PM | Friday Tut | Friday 10PM |
+|------|---------|-------------------------------------------|----------------|--------------|------------|------------|
+| 1    | Sep 12  | Jupyterhub, Rstudio, R Basics             | 9:10AM/2:10PM | HW1 Due      | 9:10AM/2:10PM    | Tut 1 Due  |
+| 2    |Sep 19  | Distributions and Statistics              | 9:10AM/2:10PM | HW2 Due      | 9:10AM/2:10PM    | Tut 2 Due  |
+| 3    |Sep 26  | Data Wrangling with Tidy                  | 9:10AM/2:10PM | HW3 Due      | 9:10AM/2:10PM    | Tut 3 Due  |
+| 4    |Oct 3   | One/Two Sample Hypothesis Testing     | 9:10AM/2:10PM | HW45Part2 Due| 9:10AM/2:10PM    | Tut 4 Due  |
+| 5    |Oct 10  | *THANKSGIVING DAY: NO CLASS, RESCHEDULED  |               | HW45Part3 Due| 9:10AM/2:10PM    | **Projet Introduction** |
+| 6    |Oct 17  | Bootstrap Confidence Intervals            | 9:10AM/2:10PM | HW6 Due      | 9:10AM/2:10PM    | Tut 5 Due  |
+| 7    |Oct 24  | **Midterm Review**                        | 9:10AM/2:10PM |              | 9:10AM/2:10PM    | **Midterm Exam**   |
+| 8    |Oct 31  | Linear Regression I                       | 9:10AM/2:10PM | HW7 Due      | 9:10AM/2:10PM    | Tut 6 Due  |
+| 9    |Nov 7   | READING WEEK                              |                |              |                   |            |
+| 10   |Nov 14  | Linear Regression II                      | 9:10AM/2:10PM | HW8 Due      | 9:10AM/2:10PM    | Tut 7 Due  |
+| 11   |Nov 21  | Classification Trees                      | 9:10AM/2:10PM | HW9 Due      | 9:10AM/2:10PM    | Tut 8 Due  |
+| 12   |Nov 28  | Study Design, Confounding, Ethics         | 9:10AM/2:10PM | HW10 Due      | 9:10AM/2:10PM    | Tut 9 Due  |
+| 13   |Dec 5   | **Final Review**                          | 9:10AM/2:10PM |              |                   |            |
+|  |       | *Oct 10 -> Dec 8th Reschedule             |                | **Thursday** |                   |            |
+|   |      |                                           |                | **Dec 8th**  |                   |            |
+|    |     |                                           |                | **9:10AM/2:10PM**        |      |            |
+|     |    |                                           |                | **Project (DUE)**  |                   |            |
+|      |   |                                           |                | **Presentations** |              |            |
 
 
 ## Course project
