@@ -51,6 +51,10 @@ Please see below for information regarding the following topics:
 - [Help](#help)
 - [Calendar](#calendar)
 - [Course project](#course-project)
+  - [Course project requirements and scope](#course-project-requirements-and-scope)
+  - [Course project teamwork](course-project-teamwork)
+  - [Course project data](course-project-data)
+
 - [Outline](#outline) (where you'll find all the course material)
 
 ## Schedule
@@ -161,7 +165,7 @@ The first day of class and the first day of tutorial occur during the week of Se
 
 ## Course project
 
-The course project is meant to give you an example of what it can be like to be a statistician doing applied research work.  To give you an authentic, real experience I'd like you to join me on one of my own current projects. This way you'll be able to see what real research work is like (at least for an $n$ of $1$, me!).
+The course project is meant to give you an example of what it can be like to be a statistician doing applied research work.  To give you an authentic, real experience I'd like you to join me on one of my own current projects. This way you'll be able to see what real research work is like (at least for an "$n \text{ of } 1$", me!).
 
 Before I moved to UofT I taught at the [University of Virginia](https://www.virginia.edu/) [School of Data Science](https://datascience.virginia.edu/).
 
@@ -208,6 +212,8 @@ Continuing with the theme of being a statistical consultant, let's start thinkin
 7. Are there patterns in the patterns? Each above analyses is a result, but what's the analysis of the results themselves? $\longrightarrow$ meta...
 
 Of the analyses proposed above, we've so far only covered **Hypothesis Testing**.  A good place to both get started on the project as well as familiarize yourself with the data would be to start with some **Hypothesis Testing** on the data.  In general, you can use the project to reinforce the topics we're learning by trying them out on the project data. Not only will this be beneficial for your learning, but it will help you avoid a last-minute rush to create your material for the **Project Poster Presentations on Thursday, December 8th**.  For example, I haven't listed any analyses using ***Confidence Intervals***, but these are the next tool we'll cover in the course. How can we use ***Confidence Intervals*** in the context of our course project data?
+
+### Course project requirements and scope
 
 #### Your Project Poster will be evaluated based on the presentation of 3 of the 5 distinct categories of analyses noted above (Hypothesis Testing, Confidence Intervals, Correlation, Regression, Classification) and the use of supporting visualizations and explanation.
 
@@ -349,18 +355,36 @@ The actual topic of Week 4 is a specific kind of *Statistical Inference* called 
 - It is **Strongly Recommended** that you complete the *Ungraded Quercus Practice Quizzes* on [One](https://q.utoronto.ca/courses/239327/quizzes/271075) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_PracticeQuiz_OneSampleHypothesisTest_ABCD&urlpath=rstudio%2F&branch=main)] and [Two](https://q.utoronto.ca/courses/239327/quizzes/271083) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_PracticeQuiz_TwoSampleHypothesisTest_gratitude&urlpath=rstudio%2F&branch=main)] Sample Hypothesis Tests to bolster and reinforce of your learning of the potentially challenging, and certainly very dense, hypothesis testing material.
 
 
-### Week 6: Statistical Inference with Bootstrap Confidence Intervals
+### Week 6: Bootstrap Confidence Intervals
+
+| [Slides](https://github.com/pointOfive/STA130_Week6_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week6_Slides&urlpath=rstudio%2F&branch=main)] + [Demo](https://github.com/pointOfive/STA130_Week6_Demo) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week6_Demo&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/pointOfive/STA130_ProblemSet6) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet6&urlpath=rstudio%2F&branch=main)] due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/269908) by 5 p.m. ET Thursday |
+|-|-|
+|  | Ungraded Optional [Quercus Practice Quiz](https://q.utoronto.ca/courses/239327/quizzes/271819) | 
+
+This week introduces a second class of *Statistical Inference* methods known as *Confidence Interval*. Specifically, we consider *Bootstrapping Confidence Intervals*, which are based on the underlying premise of approximating the unavailable population with the available sample (which naturally benefits from increased sample sizes $n$).  We show the long-term behavior of different *Confidence Intervals* relative to the Confidence Intervals width (controlled by the Confidence level of the interval), and compare and contrast *Confidence Intervals* with *Hypothesis Tests*. We also introduce the "p-value controversy", as well as the "measure of evidence" perspective of p-values (as opposed to $\alpha$-level significance testing), but again return to *Confidence Intervals* as an effective way to communicate statitical inference findings. We note that  *Confidence Intervals* suffer from fewer potential interpretation pitfalls than p-value based analyses, but for the same reason (that parameter values are *unknown* but **fixed**) have the technical peculiarity that they provide probabilities about themselves as procedures rather the parameter values they estimate (resulting in the use of term *Confidence*). We discuss the role of the sample size for the width of the *Confidence Interval* (as opposed to the level of confidence of the interval).  And we visualze the behavior of the *Sampling Distribution* (the percentiles of which define *Confidence Intervals*) as a function of $n$ and the *skewness* of the original population.
+
+- The course slides outline the topic list for this section of the course. For another treatment of the *Bootstrap Confidence Interval* workflow, please see [Chapter 13: Estimation](https://inferentialthinking.com/chapters/13/Estimation.html) from the [Inferential Thinking](https://inferentialthinking.com) textbook.  For more specific explanations of certain topics, or further details of the subtle technical issues, please search out sources online. 
+
 
 ### Week 7: Midterm Review and Friday Midterm
 
 - **The Course Midterm will take place in Tut on Friday of this week.**
 
-### Module 7: Linear Regression I
+### Week 8: Linear Regression I
 
-### Module 8: Linear Regression II
+### Week 9: Reading Week
 
-### Module 9: Classification Trees
+### Week 10: Linear Regression II
 
-### Module 10: Study Design, Confounding, and Ethics
+### Week 11: Classification Trees
 
-### Final Review
+### Week 12: Study Design, Confounding, and Ethics
+
+### Week 13: Final Review
+
+### Also Week 13: Course Proejct Presentations
+
+- Thursday, December 8th at the usual Monday Lecture time
+
+
+
