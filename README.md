@@ -144,15 +144,15 @@ The first day of class and the first day of tutorial occur during the week of Se
 | Sep 12  | Jupyterhub, Rstudio, R Basics             | 9:10AM/2:10PM | HW1 Due      | 9:10AM/2:10PM    | Tut 1 Due  |
 | Sep 19  | Distributions and Statistics              | 9:10AM/2:10PM | HW2 Due      | 9:10AM/2:10PM    | Tut 2 Due  |
 | Sep 26  | Data Wrangling with Tidy                  | 9:10AM/2:10PM | HW3 Due      | 9:10AM/2:10PM    | Tut 3 Due  |
-| Oct 3   | One and Two Sample Hypothesis Testing     | 9:10AM/2:10PM | HW4 Part 2 Due| 9:10AM/2:10PM    | Tut 4 Due  |
-| Oct 10  | *THANKSGIVING DAY: NO CLASS, RESCHEDULED  |               | HW4 Part 3 Due| 9:10AM/2:10PM    | **Projet Introduction** |
-| Oct 17  | Statistical Inference with Bootstrap CIs  | 9:10AM/2:10PM | HW5 Due      | 9:10AM/2:10PM    | Tut 5 Due  |
+| Oct 3   | One and Two Sample Hypothesis Testing     | 9:10AM/2:10PM | HW45Part2 Due| 9:10AM/2:10PM    | Tut 4 Due  |
+| Oct 10  | *THANKSGIVING DAY: NO CLASS, RESCHEDULED  |               | HW45Part3 Due| 9:10AM/2:10PM    | **Projet Introduction** |
+| Oct 17  | Bootstrap Confidence Intervals            | 9:10AM/2:10PM | HW6 Due      | 9:10AM/2:10PM    | Tut 5 Due  |
 | Oct 24  | **Midterm Review**                        | 9:10AM/2:10PM |              | 9:10AM/2:10PM    | **Midterm Exam**   |
-| Oct 31  | Linear Regression I                       | 9:10AM/2:10PM | HW6 Due      | 9:10AM/2:10PM    | Tut 6 Due  |
+| Oct 31  | Linear Regression I                       | 9:10AM/2:10PM | HW7 Due      | 9:10AM/2:10PM    | Tut 6 Due  |
 | Nov 7   | READING WEEK                              |                |              |                   |            |
-| Nov 14  | Linear Regression II                      | 9:10AM/2:10PM | HW7 Due      | 9:10AM/2:10PM    | Tut 7 Due  |
-| Nov 21  | Classification Trees                      | 9:10AM/2:10PM | HW8 Due      | 9:10AM/2:10PM    | Tut 8 Due  |
-| Nov 28  | Study Design, Confounding, Ethics         | 9:10AM/2:10PM | HW9 Due      | 9:10AM/2:10PM    | Tut 9 Due  |
+| Nov 14  | Linear Regression II                      | 9:10AM/2:10PM | HW8 Due      | 9:10AM/2:10PM    | Tut 7 Due  |
+| Nov 21  | Classification Trees                      | 9:10AM/2:10PM | HW9 Due      | 9:10AM/2:10PM    | Tut 8 Due  |
+| Nov 28  | Study Design, Confounding, Ethics         | 9:10AM/2:10PM | HW10 Due      | 9:10AM/2:10PM    | Tut 9 Due  |
 | Dec 5   | **Final Review**                          | 9:10AM/2:10PM |              |                   |            |
 |         | *Oct 10 -> Dec 8th Reschedule             |                | **Thursday** |                   |            |
 |         |                                           |                | **Dec 8th**  |                   |            |
@@ -345,6 +345,7 @@ The actual topic of Week 4 is a specific kind of *Statistical Inference* called 
 ### Week 5: Introduction to the Course Project 
 
 - **The [Course Project](#course-project) will be introduced in Tut on Friday of this week.**
+- **READ the [Course Project](#course-project) description BEFORE Tut on Friday of this week.**
 - There is *No Lecture* on Thanksgiving (Monday).
 - Complete **Part 3** of the **Week 4** [Problem Set](https://github.com/pointOfive/STA130_ProblemSet4) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet4&urlpath=rstudio%2F&branch=main)] due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/269908) by 5 p.m. ET on Thursday.
 - It is **Strongly Recommended** that you complete the *Ungraded Quercus Practice Quizzes* on [One](https://q.utoronto.ca/courses/239327/quizzes/271075) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_PracticeQuiz_OneSampleHypothesisTest_ABCD&urlpath=rstudio%2F&branch=main)] and [Two](https://q.utoronto.ca/courses/239327/quizzes/271083) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_PracticeQuiz_TwoSampleHypothesisTest_gratitude&urlpath=rstudio%2F&branch=main)] Sample Hypothesis Tests to bolster and reinforce of your learning of the potentially challenging, and certainly very dense, hypothesis testing material.
