@@ -52,7 +52,6 @@ Please see below for information regarding the following topics:
 - [Calendar](#calendar)
 - [Course project](#course-project)
   - [Course project requirements and scope](#course-project-requirements-and-scope)
-  - [Course project teamwork](course-project-teamwork)
   - [Course project data](course-project-data)
 
 - [Outline](#outline) (where you'll find all the course material)
@@ -193,9 +192,13 @@ Now, if you didn't catch all (or any of that) on your first reading, that sounds
 >|1|     |     |     |          |      |      |      |    |    |    |    |      |        |      |     |
 >|2|     |     |     |          |      |      |      |    |    |    |    |      |        |      |     |
 >|$\vdots$|  |   |   |          |      |      |      |    |    |    |    |      |        |      |     |
->|$n_{xt}$|  |   |   |          |      |      |      |    |    |    |    |      |        |      |     |
+>|$n$|  |   |   |          |      |      |      |    |    |    |    |      |        |      |     |
 >
-> where the total number of observations $n_{xt}$ depends on condition $x$ and time $t$ (because we're measuring different batches of cells so we don't always have the same number).  The experimental conditions $x$ are defined by two drugs and their dosage, and each condition is repeated a few times for validation purposes.
+> where the total number of observations $\displaystyle n = \sum_x \sum_t n_{xt}$ is the sum of all the samples $n_{xt}$ in each condition $x$ and time $t$ (which will be different since different batches of cells so we don't always have the same number of observations).
+>
+> - Note that "the number of observations" is the "number of individual cells" on which the measurements have been made.
+>
+> The experimental conditions $x$ are defined by two drugs and their dosage, and each condition is repeated a few times for validation purposes.
 
 This should be a little more comprehensible now. And actually, you've just had your first formal experience as a statistical consultant!  How so?  Well, in my experience as a statistical, bioinformatic, and data science consultant, the exercise you've just done is exactly what happens.  You meet someone, they tell you about their applied problem, and then you would work to learn what the context is and understand what their problem actually is.  So if you need, review things here a little bit more, and work to make yourself more comfortable with what this project is all about!  
 
@@ -232,6 +235,8 @@ Of the analyses proposed above, we've so far only covered **Hypothesis Testing**
 There will be 3 project teams of 3-4 students per TUT group. Working groups are one of the primary communities we are a part of in life. Take advantage of the opportunity to make connections with your peers!  Collaborative work is -- and I cannot stress this enough -- **A HUGE** part of the being a Statisticain or a Data Scientist. So take this opportunity to practice being a good team member. Learn from your peers, meet your peers where they're at and be charitable and generous in your interactions with them, and do your best to be supportive and helpful to your team.  You will need to work as a team to plan your project strategy, divide and assign tasks, and collaboratively improve and refine your work. Be constructive and help synergize your teams potential!
 
 - There are many things to explore in this data. But remember, the project is scored based on your presentation of 3 of the 5 distinct categories, not the exhaustiveness of your analysis. It is worth spending time on exploratory data analysis (EDA) as it will help you form your initial objectives and guide any advanced work you do beyond the basic project requirements; but, if you find your EDA requiring too much time and effort, then you need to quickly determine how you can reduce the scope of your efforts.  You will never be able to do everything you want to with a data set, and you need to be comfortable working efficiently towards clear and achieveable objectives while avoiding "analysis paralysis" -- this is a very important skill for being effective and productive as a statistician or a data scientist.
+ 
+  > When you're examining the dependency between the proteins, only examine the different proteins within one particular treatment condition at first. If you're going to start trying to compare analyses across different, it's first to best to confirm that repeated batches (`Rep`) are behaving reproducibly. If you're starting to compare two different treatment conditions, perhaps begin with the first and last timepoints, as those should show the greatest differentiation.
 
 ### Course project data
 
