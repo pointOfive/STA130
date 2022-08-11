@@ -241,16 +241,7 @@ There will be 3 project teams of 3-4 students per TUT group. Working groups are 
 ### Course project data
 
 The data for the course project comes from [this article](https://www.biorxiv.org/content/10.1101/2021.12.06.471514v1.full) finding that the 
-"AP-1 transcription factor network" (i.e., the relative distributions and dependency relationships of transcription factors) are predictive of "cellular plasticity in melanoma" (i.e., how easily changable the phenotypes are melanoma cell lines). 
-
-The data can be downloaded from google drive through R if you have a gmail account with the following R code.
-
-```
-library(googledrive)
-drive_download(as_id("1m-bc56NfKErzkxdlHXBLWQg14W2R2vd8"), overwrite=TRUE)
-library(tidyverse)
-data <- read_csv("STA130_Course_Project.csv")
-```
+"AP-1 transcription factor network" (i.e., the relative distributions and dependency relationships of transcription factors) are predictive of "cellular plasticity in melanoma" (i.e., how easily changable the phenotypes are melanoma cell lines), and is available for download [here](https://drive.google.com/uc?id=1m-bc56NfKErzkxdlHXBLWQg14W2R2vd8&export=download)
 
 | Phenotype Indicators      | MiTFg | Sox10 | NGFR | AXL | | | |
 |--------------------------:|-------|-------|------|-----|-------------|-------------|-------------|
