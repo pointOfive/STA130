@@ -45,8 +45,8 @@ Please see below for information regarding the following topics:
 - [Schedule](#schedule)
 - [Grading](#grading)
   - [Accomodations](#accomodations)
-  - [Best 7/9 policy](#best-79-policy)
-    - [Student Health](#best-79-policy)  
+  - [Best 7 of X policy](#best-7-of-X-policy)
+    - [Student Health](#best-7-of-X-policy)  
   - [Participation](#participation)
 - [Help](#help)
 - [Calendar](#calendar)
@@ -73,7 +73,7 @@ and 3 hours left available for study and review, office hours and piazza discuss
 
 | Components             | Notes                | Absence Policy            | Accomodation Requests | 
 |------------------------|----------------------|---------------------------|-----------------------|
-| 7% R Homework          | 9 assignments        | Best 7/9 are Scored       | See below             |
+| 7% R Homework          | 10 assignments       | Best 7/10 are Scored      | See below             |
 | 14% In-Person Tut work | 9 activities         | Best 7/9 are Scored       | See below             |
 | 20% Course project     |                      | Due Dec 8th               | Emergency Absenses ONLY  |
 | 20% Midterm            |                      | Reweights to Final if Missed | Automatic          |
@@ -86,13 +86,13 @@ and 3 hours left available for study and review, office hours and piazza discuss
 
 | Accomodation | Contingency Request Recipient(s) | Notes |
 |-|-|-|
-| Best 7/9 policy | Automatic: no student action required |
-| Extended 7/9 policy | [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) + sta130@utorono.ca | Notice must be provided within one week of return to UofT activities |
+| Best 7 of X policy | Automatic: no student action required |
+| Extended 7 of X policy | [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) + sta130@utorono.ca | Notice must be provided within one week of return to UofT activities |
 | Final Exam | [FAS Exam Deferrel Petition](https://www.artsci.utoronto.ca/current/faculty-registrar/petitions/deferred-exams) | The Faculty of Arts and Sciences administers the final exam |
 | Miderm Exam | Final Reweighting | This is automatic so no request is required | 
 | Course Porject | sta130@utorono.ca | Extensions will be granted only for Emergency Absenses ONLY |
 
-#### Best 7/9 policy
+#### Best 7 of X policy
 
 For students having a "normal" experience acclimating to the UofT context, 
 this should provide a comfortable buffer against minor unexpected events or schedule management growing pains. For example
@@ -100,18 +100,17 @@ this should provide a comfortable buffer against minor unexpected events or sche
 - if you have several assignments due at once and are unable to complete an R Homework assignment in time
 - if you're not feeling well and are unable to attend TUT and turn in the TUT activity work in time
 
-you'll get a "zero" but if this is one of your two lowest two scores in a categegory it will be dropped won't count towards that categories final score.
+you'll get a "zero" but, but only your **7 best scores** for Problem Sets/Tutorial Work will count towards for the final score.
 
 ***Physical Health***: This policy is intended support your ability to make positive personal and community health choices.  This policy should encourage staying home and resting when it's the right thing to do. 
 
 ***Personal Well-Being***: It is increasingly understood that belonging and community are extremely important for our emotional health, and coming to class and doing your work is a part of your sense of belonging in our community. Sometimes it can be good to "take a break", too, and this policy certainly covers that.
 
-Contingencies involving **three absences** due to health related issues can be initiated through your [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) and can be accomodated upon the recommendation of the Registrar with the following limitations:
+Contingencies if the **Best 7 of X policy** is not sufficient can be initiated and explored through your [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) and can be accomodated upon the recommendation of the Registrar with the following limitations:
 
 - Accomodations involving **three absences** due to health related issues will be considered provided that notice of the advent of special circumstances is made to both (a) the [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) and (b) sta130@utorono.ca within one week of return to University activities. 
-- Accomodations beyond the "Best 7/9 policy" involving one or two health related absences will not be considered.
-- Accomodations beyond the "Best 7/9 policy" involving time management challenges will not be considered.
-- So if you've already "used up" your "Best 7/9 policy" but then get sick, you won't be able to omit additional "zeros".
+- Accomodations beyond the **Best 7 of X policy** involving one or two health related absences will not be considered.
+- Accomodations beyond the **Best 7 of X policy** involving time management challenges will not be considered.
 
 #### Participation
 
@@ -194,7 +193,7 @@ Now, if you didn't catch all (or any of that) on your first reading, that sounds
 >|$\vdots$|  |   |   |          |      |      |      |    |    |    |    |      |        |      |     |
 >|$n$|  |   |   |          |      |      |      |    |    |    |    |      |        |      |     |
 >
-> where the total number of observations $\displaystyle n = \sum_x \sum_t n_{xt}$ is the sum of all the samples $n_{xt}$ in each condition $x$ and time $t$ (which will be different since different batches of cells so we don't always have the same number of observations).
+> where the total number of observations $n = \sum_x \sum_t n_{xt}$ is the sum of all the samples $n_{xt}$ in each condition $x$ and time $t$ (which will be different since different batches of cells so we don't always have the same number of observations).
 >
 > - Note that "the number of observations" is the "number of individual cells" on which the measurements have been made.
 >
