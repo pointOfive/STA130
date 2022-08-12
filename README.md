@@ -215,6 +215,10 @@ Continuing with the theme of being a statistical consultant, let's start thinkin
 
 Of the analyses proposed above, we've so far only covered **Hypothesis Testing**.  A good place to both get started on the project as well as familiarize yourself with the data would be to start with some **Hypothesis Testing** on the data.  In general, you can use the project to reinforce the topics we're learning by trying them out on the project data. Not only will this be beneficial for your learning, but it will help you avoid a last-minute rush to create your material for the **Project Poster Presentations on Thursday, December 8th**.  For example, I haven't listed any analyses using ***Confidence Intervals***, but these are the next tool we'll cover in the course. How can we use ***Confidence Intervals*** in the context of our course project data?
 
+| | |
+|-|-|
+|<img src="poster_fair.JPG" height=400px>|<img src="poster_fair_2.jpg" height=400px>|
+
 ### Course project requirements and scope
 
 #### Your Project Poster will be evaluated based on the presentation of 3 of the 5 distinct categories of analyses noted above (Hypothesis Testing, Confidence Intervals, Correlation, Regression, Classification) and the use of supporting visualizations and explanation.
