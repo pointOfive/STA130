@@ -141,14 +141,14 @@ The first day of class and the first day of tutorial occur during the week of Se
 
 | Week | Week of | Topic                                     | Monday Lec     | Thursday 5PM | Friday Tut | Friday 10PM |
 |------|---------|-------------------------------------------|----------------|--------------|------------|------------|
-| 1    | Sep 12  | Jupyterhub, Rstudio, R Basics             | 9:10AM/2:10PM | HW1 Due      | 9:10AM/2:10PM    | Tut 1 Due  |
-| 2    |Sep 19  | Distributions and Statistics              | 9:10AM/2:10PM | HW2 Due      | 9:10AM/2:10PM    | Tut 2 Due  |
-| 3    |Sep 26  | Data Wrangling with Tidy                  | 9:10AM/2:10PM | HW3 Due      | 9:10AM/2:10PM    | Tut 3 Due  |
-| 4    |Oct 3   | One/Two Sample Hypothesis Testing     | 9:10AM/2:10PM | HW45Part2 Due| 9:10AM/2:10PM    | Tut 4 Due  |
+| 1    | Sep 12  | [Jupyterhub, Rstudio, R Basics](#week-1-jupyterhub-rstudiormd-and-r-basics-and-libraries)             | 9:10AM/2:10PM | HW1 Due      | 9:10AM/2:10PM    | Tut 1 Due  |
+| 2    |Sep 19  | [Distributions and Statistics](#week-2-data-types-ggplot2-and-lower-case-statistics)              | 9:10AM/2:10PM | HW2 Due      | 9:10AM/2:10PM    | Tut 2 Due  |
+| 3    |Sep 26  | [Data Wrangling with Tidy](#week-3-tidy-data-and-data-wrangling)                  | 9:10AM/2:10PM | HW3 Due      | 9:10AM/2:10PM    | Tut 3 Due  |
+| 4    |Oct 3   | [One/Two Sample Hypothesis Testing](#week-4-one-and-two-sample-hypothesis-tests)     | 9:10AM/2:10PM | HW45Part2 Due| 9:10AM/2:10PM    | Tut 4 Due  |
 | 5    |Oct 10  | *THANKSGIVING DAY: NO CLASS, RESCHEDULED  |               | HW45Part3 Due| 9:10AM/2:10PM    | **Projet Introduction** |
-| 6    |Oct 17  | Bootstrap Confidence Intervals            | 9:10AM/2:10PM | HW6 Due      | 9:10AM/2:10PM    | Tut 5 Due  |
+| 6    |Oct 17  | [Bootstrap Confidence Intervals](#week-6-bootstrap-confidence-intervals)            | 9:10AM/2:10PM | HW6 Due      | 9:10AM/2:10PM    | Tut 5 Due  |
 | 7    |Oct 24  | **Midterm Review**                        | 9:10AM/2:10PM |              | 9:10AM/2:10PM    | **Midterm Exam**   |
-| 8    |Oct 31  | Simple Linear Regression                  | 9:10AM/2:10PM | HW7 Due      | 9:10AM/2:10PM    | Tut 6 Due  |
+| 8    |Oct 31  | [Simple Linear Regression](#week-8-simple-linear-regression)                  | 9:10AM/2:10PM | HW7 Due      | 9:10AM/2:10PM    | Tut 6 Due  |
 | 9    |Nov 7   | READING WEEK                              |                |              |                   |            |
 | 10   |Nov 14  | Linear Regression II                      | 9:10AM/2:10PM | HW8 Due      | 9:10AM/2:10PM    | Tut 7 Due  |
 | 11   |Nov 21  | Classification Trees                      | 9:10AM/2:10PM | HW9 Due      | 9:10AM/2:10PM    | Tut 8 Due  |
@@ -267,7 +267,7 @@ where the HIGH/LOW distinctions are determined empirically from the data.
 
 ## Outline
 
-### Week 1: Jupyterhub, Rstudio/Rmd, and R Basics and Libraries)
+### Week 1: Jupyterhub, Rstudio/Rmd, and R Basics and Libraries
 
 | [Slides](https://github.com/pointOfive/STA130_Week1_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Slides&urlpath=rstudio%2F&branch=main)] + [Demo](https://github.com/pointOfive/STA130_Week1_Demo) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week1_Demo&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/pointOfive/STA130_ProblemSet1) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet1&urlpath=rstudio%2F&branch=main)] due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/269319) by 5 p.m. ET Thursday |
 |-|-|
