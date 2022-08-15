@@ -148,7 +148,7 @@ The first day of class and the first day of tutorial occur during the week of Se
 | 5    |Oct 10  | *THANKSGIVING DAY: NO CLASS, RESCHEDULED  |               | HW45Part3 Due| 9:10AM/2:10PM    | **Projet Introduction** |
 | 6    |Oct 17  | Bootstrap Confidence Intervals            | 9:10AM/2:10PM | HW6 Due      | 9:10AM/2:10PM    | Tut 5 Due  |
 | 7    |Oct 24  | **Midterm Review**                        | 9:10AM/2:10PM |              | 9:10AM/2:10PM    | **Midterm Exam**   |
-| 8    |Oct 31  | Linear Regression I                       | 9:10AM/2:10PM | HW7 Due      | 9:10AM/2:10PM    | Tut 6 Due  |
+| 8    |Oct 31  | Simple Linear Regression                  | 9:10AM/2:10PM | HW7 Due      | 9:10AM/2:10PM    | Tut 6 Due  |
 | 9    |Nov 7   | READING WEEK                              |                |              |                   |            |
 | 10   |Nov 14  | Linear Regression II                      | 9:10AM/2:10PM | HW8 Due      | 9:10AM/2:10PM    | Tut 7 Due  |
 | 11   |Nov 21  | Classification Trees                      | 9:10AM/2:10PM | HW9 Due      | 9:10AM/2:10PM    | Tut 8 Due  |
@@ -368,9 +368,18 @@ This week introduces a second class of *Statistical Inference* methods known as 
 
 ### Week 7: Midterm Review and Friday Midterm
 
+- Monday's lecture period will be will be used as a review for the midterm.
 - **The Course Midterm will take place in Tut on Friday of this week.**
 
-### Week 8: Linear Regression I
+### Week 8: Simple Linear Regression
+
+| [Slides](https://github.com/pointOfive/STA130_Week8_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week8_Slides&urlpath=rstudio%2F&branch=main)] + [Demo](https://github.com/pointOfive/STA130_Week8_Demo) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week8_Demo&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/pointOfive/STA130_ProblemSet7-Week8) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet7-Week8&urlpath=rstudio%2F&branch=main)] due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/272781) by 5 p.m. ET Thursday |
+|-|-|
+|  | Ungraded Optional [Quercus Practice Quiz](https://q.utoronto.ca/courses/239327/quizzes/272781) | 
+
+Week 8 introduces the `geom_point()` plot and `facet_grid()` layout from `ggplot2`, as well as the Correlation measure $r$ of linear association. The Simple Linear Regression (normal) model is then introduced, and the aspects of its specification are explored. Finally, model interpretability, the Coefficient of Determination $R^2$, indicator variables and scaling, and Hypothesis Testing in the Simple Linear Regression context are addressed.
+
+- As Simple Linear Regression is such a fundamental methodology, if you're looking for further explanations and information you will be able to readily find resources online with some searching.
 
 ### Week 9: Reading Week
 
