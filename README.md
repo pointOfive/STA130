@@ -150,7 +150,7 @@ The first day of class and the first day of tutorial occur during the week of Se
 | 7    |Oct 24  | **Midterm Review**                        | 9:10AM/2:10PM |              | 9:10AM/2:10PM    | **Midterm Exam**   |
 | 8    |Oct 31  | [Simple Linear Regression](#week-8-simple-linear-regression)                  | 9:10AM/2:10PM | HW7 Due      | 9:10AM/2:10PM    | Tut 6 Due  |
 | 9    |Nov 7   | READING WEEK                              |                |              |                   |            |
-| 10   |Nov 14  | [Multivariate Linear Regression](#week-8-multivariate-linear-regression)                      | 9:10AM/2:10PM | HW8 Due      | 9:10AM/2:10PM    | Tut 7 Due  |
+| 10   |Nov 14  | [Multivariate Linear Regression](#week-10-multivariate-linear-regression)                      | 9:10AM/2:10PM | HW8 Due      | 9:10AM/2:10PM    | Tut 7 Due  |
 | 11   |Nov 21  | Classification Trees                      | 9:10AM/2:10PM | HW9 Due      | 9:10AM/2:10PM    | Tut 8 Due  |
 | 12   |Nov 28  | Study Design, Confounding, Ethics         | 9:10AM/2:10PM | HW10 Due      | 9:10AM/2:10PM    | Tut 9 Due  |
 | 13   |Dec 5   | **Final Review**                          | 9:10AM/2:10PM |              |                   |            |
@@ -264,6 +264,9 @@ The cellular phenotypes of melanoma cell can be characterized in terms of the HI
 
 where the HIGH/LOW distinctions are determined empirically from the data.
 
+### Course project planning assignment
+
+As a group you must submit a proposal for how you plan to collaborate and work together, as well as a general roadmap of your groups strategy for accomplishing the tasks of the course project. Detail how you will systematically explore the data and the applicability and results of applying the methods you're learning to the data. 
 
 ## Outline
 
