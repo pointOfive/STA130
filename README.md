@@ -68,6 +68,8 @@ The course (on average across students) should take 10 hours a week with 7 hours
 | L0101+L0201 | 10:00 PM ET |            |                | Tut work (+1hr) Due |
 
 and 3 hours left available for study and review, office hours and piazza discussion boards, and eventual team project work.
+Professor Office Hours will be Wenesday from 5-7 p.m. ET online at https://utoronto.zoom.us/j/2910373742. Student questions and conversation will be prioritized, and any remaining time will be spent on interactive code walkthoughs, demonstrations, and  discussions.
+
 
 ## Grading
 
