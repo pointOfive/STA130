@@ -383,6 +383,11 @@ Week 8 introduces the `geom_point()` plot and `facet_grid()` layout from `ggplot
 
 ### Week 9: Reading Week
 
+Have great break!
+
+### Week 10: Multivariate Linear Regression
+
+
 | [Slides](https://github.com/pointOfive/STA130_Week10_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week10_Slides&urlpath=rstudio%2F&branch=main)] + [Demo](https://github.com/pointOfive/STA130_Week10_Demo) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week10_Demo&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/pointOfive/STA130_ProblemSet8-Week10) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet8-Week10&urlpath=rstudio%2F&branch=main)] due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/275202) by 5 p.m. ET Thursday |
 |-|-|
 |  | Ungraded Optional [Quercus Practice Quiz](https://q.utoronto.ca/courses/239327/quizzes/275202) | 
@@ -390,10 +395,6 @@ Week 8 introduces the `geom_point()` plot and `facet_grid()` layout from `ggplot
 Week 10 extends to the Simple Linear Regression framework into Multivariate Linear Regression. The Prediction exercise is compared to the Hypothesis Testing and Estimation frameworks as another form of Statistical Inference. The Coefficient of Determination $R^2$ is revisited, and Variable Selection using Hypothesis Testing is examined with specific attention payed to the effects of Multicollinearity (observable Confounding) and Practical versus Statistical Significance. The Out of Sample (80/20) Train-Test framework is then introduced along with RMSE and explored, and the role of chance in Hypothesis Testing and Out of Sample Testing is emphasized. Finally, interactions are introduced and some model comparision and selection demonstrations are given. 
 
 - As Multivariate Linear Regression is such a fundamental methodology, if you're looking for further explanations and information you will be able to readily find resources online with some searching.
-
-### Week 10: Multivariate Linear Regression
-
-| [Slides](https://github.com/pointOfive/STA130_Week8_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week8_Slides&urlpath=rstudio%2F&branch=main)] + [Demo](https://github.com/pointOfive/STA130_Week8_Demo) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week8_Demo&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/pointOfive/STA130_ProblemSet7-Week8) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet7-Week8&urlpath=rstudio%2F&branch=main)] due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/272781) by 5 p.m. ET Thursday |
 
 
 ### Week 11: Classification Trees
