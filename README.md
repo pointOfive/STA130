@@ -153,7 +153,7 @@ The first day of class and the first day of tutorial occur during the week of Se
 | 8    |Oct 31  | [Simple Linear Regression](#week-8-simple-linear-regression)                  | 9:10AM/2:10PM | HW7 Due      | 9:10AM/2:10PM    | Tut 6 Due  |
 | 9    |Nov 7   | READING WEEK                              |                |              |                   |            |
 | 10   |Nov 14  | [Multivariate Linear Regression](#week-10-multivariate-linear-regression)                      | 9:10AM/2:10PM | HW8 Due      | 9:10AM/2:10PM    | Tut 7 Due  |
-| 11   |Nov 21  | Classification Trees                      | 9:10AM/2:10PM | HW9 Due      | 9:10AM/2:10PM    | Tut 8 Due  |
+| 11   |Nov 21  | [Classification Decision Trees](#week-11-classification-decision-trees)                      | 9:10AM/2:10PM | HW9 Due      | 9:10AM/2:10PM    | Tut 8 Due  |
 | 12   |Nov 28  | Study Design, Confounding, Ethics         | 9:10AM/2:10PM | HW10 Due      | 9:10AM/2:10PM    | Tut 9 Due  |
 | 13   |Dec 5   | **Final Review**                          | 9:10AM/2:10PM |              |                   |            |
 |  |       | *Oct 10 -> Dec 8th Reschedule             |                | **Thursday** |                   |            |
@@ -162,6 +162,8 @@ The first day of class and the first day of tutorial occur during the week of Se
 |     |    |                                           |                | **Project (DUE)**  |                   |            |
 |      |   |                                           |                | **Presentations** |              |            |
 
+
+Week 11: Classification Trees
 
 ## Course project
 
@@ -392,7 +394,6 @@ Have great break!
 
 ### Week 10: Multivariate Linear Regression
 
-
 | [Slides](https://github.com/pointOfive/STA130_Week10_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week10_Slides&urlpath=rstudio%2F&branch=main)] + [Demo](https://github.com/pointOfive/STA130_Week10_Demo) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week10_Demo&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/pointOfive/STA130_ProblemSet8-Week10) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet8-Week10&urlpath=rstudio%2F&branch=main)] due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/275202) by 5 p.m. ET Thursday |
 |-|-|
 |  | Ungraded Optional [Quercus Practice Quiz](https://q.utoronto.ca/courses/239327/quizzes/275202) | 
@@ -402,7 +403,17 @@ Week 10 extends to the Simple Linear Regression framework into Multivariate Line
 - As Multivariate Linear Regression is such a fundamental methodology, if you're looking for further explanations and information you will be able to readily find resources online with some searching.
 
 
-### Week 11: Classification Trees
+### Week 11: Classification Decision Trees
+
+| [Slides](https://github.com/pointOfive/STA130_Week11_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week11_Slides&urlpath=rstudio%2F&branch=main)] + [Demo](https://github.com/pointOfive/STA130_Week11_Demo) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week11_Demo&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/pointOfive/STA130_ProblemSet9-Week11) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet9-Week11&urlpath=rstudio%2F&branch=main)] due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/277450) by 5 p.m. ET Thursday |
+|-|-|
+|  | Ungraded Optional [Quercus Practice Quiz](https://q.utoronto.ca/courses/239327/quizzes/277450) | 
+
+Week 11 introduces Binary (and Multi-Class) Classification Decision Trees.  Classifification is a prediction methodology that is related to Regression based prediction and along with Regression completes the prediction category of Statistical Inference. While the Hypothesis Testing and Estimation categories of Statistical Inference are traditionally "statistical", the prediction category is often a part of Machine Learning and Data Science.  Simple Linear and Multivariate Regression are examples of statistical models which are used for prediction; whereas, Decision Trees are examples of predictive Machine Learning algorithms which are used for prediction.  There are many examples of predictive Machine Learning algorithms which do prediction (such as Random Forests); and, there are statistical models which do clssification (such as logistic regression, which is slightly misnomered). 
+
+The difference between Classification and Regression is that Classification predicts "classes" (like "yes" or "no") while Regression predicts real-valued outputs (such as the price of something).  When predicting specific classes you are making decisions which are "right" or "wrong" (as opposed to in regression where your prediction is off by some amount called the "residual"). In this sense, Classification is conceptually similar to Hypothesis testing in that Type I and Type II errors characterize the types of incorrect decisions you can make about a hypothesis, whereas in Classification the analogous notions are called False Positives and False Negatives.  Based on these error, and the correct classifications called True Positives and True Negatives, a number of "Metrics" are used to quantify the performance of the classification method; namely, for example, precision, sensitivity/recall (True Positive Rate, or one minus False Positive Rate), and Specificity (True Negative Rate, or one minus False Negative Rate). The implications of all of these aspects in the context of a specific application is explored carefully, in addition to their technical specifications.
+
+As noted, Decision Trees comprise a particular class of Classification Algorithms. The various aspects of Decision Tree methods are explored and detailed, including: node and branching structures, their recursive partitioning treatment of the data, and the thresholding mechanism by which they can favor reducing False Positives or False Negatives (depending on prioritization of these errors implied by the application domain). Model comparision is considered, and the 80/20 Train-Test methodology is reviewed and again applied in the service of this objective.
 
 ### Week 12: Study Design, Confounding, and Ethics
 
