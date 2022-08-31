@@ -44,7 +44,7 @@ Please see below for information regarding the following topics:
 
 - [Schedule](#schedule)
 - [Grading](#grading)
-  - [Accomodations](#accomodations)
+  - [Accommodations](#accommodations)
   - [Best 7 of X policy](#best-7-of-X-policy)
     - [Student Health](#best-7-of-X-policy)  
   - [Participation](#participation)
@@ -73,7 +73,7 @@ Professor Office Hours will be Wenesday from 5-7 p.m. ET online at https://utoro
 
 ## Grading
 
-| Components             | Notes                | Absence Policy            | Accomodation Requests | 
+| Components             | Notes                | Absence Policy            | Accommodation Requests | 
 |------------------------|----------------------|---------------------------|-----------------------|
 | 7% R Homework          | 10 assignments       | Best 7/10 are Scored      | See below             |
 | 14% In-Person Tut work | 9 activities         | Best 7/9 are Scored       | See below             |
@@ -84,15 +84,15 @@ Professor Office Hours will be Wenesday from 5-7 p.m. ET online at https://utoro
 | N/A Lectures           | Not Recorded         | N/A                       | Lecture `.Rmd`+Slides Available |
 | N/A Study Material     | Not Graded           | Optional Material         | N/A                   |
 
-#### Accomodations
+#### Accommodations
 
-| Accomodation | Contingency Request Recipient(s) | Notes |
+| Accommodation | Contingency Request Recipient(s) | Notes |
 |-|-|-|
 | Best 7 of X policy | Automatic: no student action required |
 | Extended 7 of X policy | [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) + sta130@utorono.ca | Notice must be provided within one week of return to UofT activities |
-| Final Exam | [FAS Exam Deferrel Petition](https://www.artsci.utoronto.ca/current/faculty-registrar/petitions/deferred-exams) | The Faculty of Arts and Sciences administers the final exam |
-| Miderm Exam | Final Reweighting | This is automatic so no request is required | 
-| Course Porject | sta130@utorono.ca | Extensions will be granted only for Emergency Absenses ONLY |
+| Final Exam | [FAS Exam Deferral Petition](https://www.artsci.utoronto.ca/current/faculty-registrar/petitions/deferred-exams) | The Faculty of Arts and Sciences administers the final exam |
+| Midterm Exam | Final Reweighting | This is automatic so no request is required | 
+| Course Project | sta130@utorono.ca | Extensions will be granted only for Emergency Absences ONLY |
 
 #### Best 7 of X policy
 
