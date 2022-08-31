@@ -80,7 +80,7 @@ Professor Office Hours will be Wenesday from 5-7 p.m. ET online at https://utoro
 | 20% Course project     |                      | Due Dec 8th               | Emergency Absenses ONLY  |
 | 20% Midterm            |                      | Reweights to Final if Missed | Automatic          |
 | 34% Final exam         |                      | Excused Absence Rescheduling | Handled through FAS |
-| 5% Participation       | Mentorship + Surveys | Due Dec 8th               | No Extensions Available |
+| 5% Participation       | Mentorship + Events  | Due Dec 8th               | No Extensions Available |
 | N/A Lectures           | Not Recorded         | N/A                       | Lecture `.Rmd`+Slides Available |
 | N/A Study Material     | Not Graded           | Optional Material         | N/A                   |
 
