@@ -108,11 +108,11 @@ you'll get a "zero" but, but only your **7 best scores** for Problem Sets/Tutori
 
 ***Personal Well-Being***: It is increasingly understood that belonging and community are extremely important for our emotional health, and coming to class and doing your work is a part of your sense of belonging in our community. Sometimes it can be good to "take a break", too, and this policy certainly covers that.
 
-Contingencies if the **Best 7 of X policy** is not sufficient can be initiated and explored through your [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) and can be accomodated upon the recommendation of the Registrar with the following limitations:
+Contingencies if the **Best 7 of X policy** is not sufficient can be initiated and explored through your [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) and can be accommodated upon the recommendation of the Registrar with the following limitations:
 
-- Accomodations involving **three absences** due to health related issues will be considered provided that notice of the advent of special circumstances is made to both (a) the [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) and (b) sta130@utorono.ca within one week of return to University activities. 
-- Accomodations beyond the **Best 7 of X policy** involving one or two health related absences will not be considered.
-- Accomodations beyond the **Best 7 of X policy** involving time management challenges will not be considered.
+- Accommodations involving **three absences** due to health related issues will be considered provided that notice of the advent of special circumstances is made to both (a) the [College Registrar](https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) and (b) sta130@utorono.ca within one week of return to University activities. 
+- Accommodations beyond the **Best 7 of X policy** involving one or two health related absences will not be considered.
+- Accommodations beyond the **Best 7 of X policy** involving time management challenges will not be considered.
 
 #### Participation
 
