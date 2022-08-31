@@ -119,14 +119,8 @@ Contingencies if the **Best 7 of X policy** is not sufficient can be initiated a
 Complete the DoSS STA130 mentorship program. The STA130 mentorship program is composed of 3 pillars designed to facilitate your engagement and inclusion in our community. To get credit for each pillar you must BOTH (a) attend an event (b) and submit a reflection of your experience. Reflections are due by 10 p.m. ET on December 8th.
 
 - Mentor meeting (1%)
-- Career event (1%)
-- Social event (1%) 
-
-Help us with "get to know the class" and "how'd we do" surveys.
-
-- Beginning of course survey (1%)
-- End of course survey (1%)
-
+- Career event $\times 2$ (2%)
+- Social event $\times 2$ (2%) 
 
 ## Help
 
