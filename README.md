@@ -317,6 +317,9 @@ Week 2 differentiates ([numerical](https://www.jove.com/science-education/12573/
 
 ### Week 3: Tidy Data and Data Wrangling
 
+|<img src="https://tidyr.tidyverse.org/logo.png" width=150px>|<img src="https://dplyr.tidyverse.org/logo.png" width=150px>|<img src="https://image.jimcdn.com/app/cms/image/transf/none/path/sc907c1c4cc8c1f1e/image/i3129eb909b67b786/version/1617197006/image.jpg" width=325px>|
+|-|-|-|
+
 
 | [Slides](https://github.com/pointOfive/STA130_Week3_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week3_Slides&urlpath=rstudio%2F&branch=main)] + [Demo](https://github.com/pointOfive/STA130_Week3_Demo) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week3_Demo&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/pointOfive/STA130_ProblemSet3) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet3&urlpath=rstudio%2F&branch=main)] due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/269908) by 5 p.m. ET Thursday |
 |-|-|
@@ -338,6 +341,9 @@ For additional introductions to these topics see the [Tidy Data](https://r4ds.ha
 
 ### Week 4: One and Two Sample Hypothesis Tests
 
+|<img src="https://www.dummies.com/wp-content/uploads/362521.image0.jpg" width=450px>|<img src="https://i.ytimg.com/vi/5Z9OIYA8He8/maxresdefault.jpg" width=450px>|
+|-|-|
+
 | [Slides](https://github.com/pointOfive/STA130_Week4_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week4_Slides&urlpath=rstudio%2F&branch=main)] + [Demo](https://github.com/pointOfive/STA130_Week4_Demo) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week4_Demo&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/pointOfive/STA130_ProblemSet45) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet45&urlpath=rstudio%2F&branch=main)] **Part 2** and **Part 3** due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/269908)  |
 |-|-|
 | **Strongly Recommended** Ungraded Quercus Practice Quizzes on | respectively at 5 p.m. ET on Thursday **this week and next** | 
@@ -356,6 +362,9 @@ The actual topic of Week 4 is a specific kind of *Statistical Inference* called 
 
 ### Week 5: Introduction to the Course Project 
 
+|<img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/08/15/01/AssetAccessCA0SIS94.jpg" width=400px>|<img src="https://www.pnas.org/cms/10.1073/pnas.0708244105/asset/15443f90-1bca-4350-916c-6f0e62f6873e/assets/graphic/zpq0050894180001.jpeg" width=300px>|
+|-|-|
+
 - **The [Course Project](#course-project) will be introduced in Tut on Friday of this week.**
 - **READ the [Course Project](#course-project) description BEFORE Tut on Friday of this week.**
 - There is *No Lecture* on Thanksgiving (Monday).
@@ -364,6 +373,11 @@ The actual topic of Week 4 is a specific kind of *Statistical Inference* called 
 
 
 ### Week 6: Bootstrap Confidence Intervals
+
+|<img src="https://images.hhbrown.com/Justin/Pair/BR735-617x563.jpg" width=250px>|<img src="https://sites.nicholas.duke.edu/statsreview/files/2013/06/cipretty.jpg" width=500px>|
+|-|-|
+
+
 
 | [Slides](https://github.com/pointOfive/STA130_Week6_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week6_Slides&urlpath=rstudio%2F&branch=main)] + [Demo](https://github.com/pointOfive/STA130_Week6_Demo) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week6_Demo&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/pointOfive/STA130_ProblemSet6) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet6&urlpath=rstudio%2F&branch=main)] due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/269908) by 5 p.m. ET Thursday |
 |-|-|
@@ -376,10 +390,20 @@ This week introduces a second class of *Statistical Inference* methods known as 
 
 ### Week 7: Midterm Review and Friday Midterm
 
+|<img src="http://intake.education/sites/default/files/2022-07/exam-2020.jpg" width=500px>|
+|-|
+
+
+
 - Monday's lecture period will be will be used as a review for the midterm.
 - **The Course Midterm will take place in Tut on Friday of this week.**
 
 ### Week 8: Simple Linear Regression
+
+|<img src="https://saylordotorg.github.io/text_introductory-statistics/section_14/88a6e0919d8617c025826c1e187ad591.jpg" width=500px>|<img src="https://miro.medium.com/max/960/1*jt-pyQQ7bgL2lyganse0nQ.png" width=500px>|
+|-|-|
+
+
 
 | [Slides](https://github.com/pointOfive/STA130_Week8_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week8_Slides&urlpath=rstudio%2F&branch=main)] + [Demo](https://github.com/pointOfive/STA130_Week8_Demo) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week8_Demo&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/pointOfive/STA130_ProblemSet7-Week8) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet7-Week8&urlpath=rstudio%2F&branch=main)] due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/272781) by 5 p.m. ET Thursday |
 |-|-|
@@ -391,9 +415,15 @@ Week 8 introduces the `geom_point()` plot and `facet_grid()` layout from `ggplot
 
 ### Week 9: Reading Week
 
+|<img src="https://media.cntraveler.com/photos/61eae278c101d1d3fd6ac204/master/w_3872,h_2592,c_limit/Aruba_GettyImages-170618386.jpg" width=500px>|
+|-|
+
 Have great break!
 
 ### Week 10: Multivariate Linear Regression
+
+|<img src="https://i.stack.imgur.com/fkkoH.png" width=400px>|<img src="https://i.imgur.com/DT4H1Yk.jpg" width=500px>|
+|-|-|
 
 | [Slides](https://github.com/pointOfive/STA130_Week10_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week10_Slides&urlpath=rstudio%2F&branch=main)] + [Demo](https://github.com/pointOfive/STA130_Week10_Demo) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week10_Demo&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/pointOfive/STA130_ProblemSet8-Week10) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet8-Week10&urlpath=rstudio%2F&branch=main)] due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/275202) by 5 p.m. ET Thursday |
 |-|-|
@@ -405,6 +435,10 @@ Week 10 extends to the Simple Linear Regression framework into Multivariate Line
 
 
 ### Week 11: Classification Decision Trees
+
+|<img src="https://miro.medium.com/max/1400/1*sJOaKrX2-PQLsI3qaVqmCQ.png" width=500px>|<img src="https://laughingsquid.com/wp-content/uploads/cat-decision.jpg" width=250px>|
+|-|-|
+
 
 | [Slides](https://github.com/pointOfive/STA130_Week11_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week11_Slides&urlpath=rstudio%2F&branch=main)] + [Demo](https://github.com/pointOfive/STA130_Week11_Demo) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week11_Demo&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/pointOfive/STA130_ProblemSet9-Week11) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet9-Week11&urlpath=rstudio%2F&branch=main)] due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/277450) by 5 p.m. ET Thursday |
 |-|-|
