@@ -47,7 +47,7 @@ Please see below for information regarding the following topics:
   - [Course project requirements and scope](#course-project-requirements-and-scope)
   - [Course project data](course-project-data)
 
-- [Outline](#outline) (where you'll find all the course material)
+- [Outline](#outline)
 
 
 ## Calendar
@@ -76,8 +76,6 @@ The first day of class and the first day of tutorial occur during the week of Se
 |     |    |                                           |                | **Project (DUE)**  |                   |            |
 |      |   |                                           |                | **Presentations** |              |            |
 
-
-Week 11: Classification Trees
 
 ## Course project
 
