@@ -73,7 +73,7 @@ The first day of class and the first day of tutorial occur during the week of Se
 | 9    |Nov 7   | READING WEEK                              |                |              |                   |            |
 | 10   |Nov 14  | [Multivariate Linear Regression](#week-10-multivariate-linear-regression)                      | 9:10AM/2:10PM | HW8 Due      | 9:10AM/2:10PM    | Tut 7 Due  |
 | 11   |Nov 21  | [Classification Decision Trees](#week-11-classification-decision-trees)                      | 9:10AM/2:10PM | HW9 Due      | 9:10AM/2:10PM    | Tut 8 Due  |
-| 12   |Nov 28  | Study Design, Confounding, Ethics         | 9:10AM/2:10PM | HW10 Due      | 9:10AM/2:10PM    | Tut 9 Due  |
+| 12   |Nov 28  | [Ethics, Confounding, and Study Design](#week-12-eithics-confounding-and-study-design) | 9:10AM/2:10PM | HW10 Due      | 9:10AM/2:10PM    | Tut 9 Due  |
 | 13   |Dec 5   | **Final Review**                          | 9:10AM/2:10PM |              |                   |            |
 |  |       | *Oct 10 -> Dec 8th Reschedule             |                | **Thursday** |                   |            |
 |   |      |                                           |                | **Dec 8th**  |                   |            |
@@ -300,8 +300,6 @@ The actual topic of Week 4 is a specific kind of *Statistical Inference* called 
 |<img src="https://images.hhbrown.com/Justin/Pair/BR735-617x563.jpg" width=250px>|<img src="https://sites.nicholas.duke.edu/statsreview/files/2013/06/cipretty.jpg" width=500px>|
 |-|-|
 
-
-
 | [Slides](https://github.com/pointOfive/STA130_Week6_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week6_Slides&urlpath=rstudio%2F&branch=main)] + [Demo](https://github.com/pointOfive/STA130_Week6_Demo) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week6_Demo&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/pointOfive/STA130_ProblemSet6) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet6&urlpath=rstudio%2F&branch=main)] due [on Quercus](https://q.utoronto.ca/courses/239327/quizzes/269908) by 5 p.m. ET Thursday |
 |-|-|
 |  | Ungraded Optional [Quercus Practice Quiz](https://q.utoronto.ca/courses/239327/quizzes/271819) | 
@@ -376,7 +374,18 @@ As noted, Decision Trees comprise a particular class of Classification Algorithm
 - As Classification, Confusion Matrices, and Decision Trees (and all related details and terminologies) are such fundamental methodologies in Prediction, Data Science, and Machine Learning, if you're looking for further explanations and information you will be able to readily find resources online with some searching.
 
 
-### Week 12: Study Design, Confounding, and Ethics
+### Week 12: Ethics, Confounding, and Study Design
+
+|<img src="https://www.scu.edu/media/mobi/blog-variants/Ethics-Blog-760x550-760x550.png" width=275px>|<img src="https://sixsigmadsi.com/wp-content/uploads/2021/05/confounding.png" width=200px>|<img src="http://blog.manuscriptedit.com/wp-content/uploads/2014/01/Analytical-Study.jpg" width=350px>|
+|-|-|-|
+
+
+| [Slides](https://github.com/pointOfive/STA130_Week12_Slides) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week12_Slides&urlpath=rstudio%2F&branch=main)] | [Problem Set](https://github.com/pointOfive/STA130_ProblemSet10-Week12) [[Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_ProblemSet10-Week12&urlpath=rstudio%2F&branch=main)] due [on Quercus](https://q.utoronto.ca/courses/277998/assignments/910651) by 5 p.m. ET Thursday |
+|-|-|
+|  | Ungraded Optional [Quercus Practice Quiz #1](https://q.utoronto.ca/courses/277998/quizzes/285166) and (#2)[https://q.utoronto.ca/courses/277998/quizzes/285168] | 
+
+Some fantastic HIGHLY RECOMMENDED reading for this, our last last lecture week of class is the [Data Science Ethics](https://mdsr-book.github.io/mdsr2e/ch-ethics.html) chapter from the Baumer et al. [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/) textbook. This reading will provide a reflective and structured opportunity to review the key ethics topics that are idiomatic within the data analysis arena. After reviewing these topics ourselves -- including ethics around Webscrapping, APIs, free and informed consent, privacy, and algorithmic bias -- we will then introduce the notion of confounding, through which we will discuss the various forms of experimental and observational study designs; namely, controlled randomized experiements, and prospective, cohort, case-control, and longitudinal studies. If the topics learning about the world through data collection studies interests you then you should seriously consider taking [STA304: Surveys, Sampling and Observational Data](https://artsci.calendar.utoronto.ca/course/sta304h1) at some point in your future careers.
+
 
 ### Week 13: Final Review
 
