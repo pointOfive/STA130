@@ -73,7 +73,7 @@ The first day of class and the first day of tutorial occur during the week of Se
 | 9    |Nov 7   | READING WEEK                              |                |              |                   |            |
 | 10   |Nov 14  | [Multivariate Linear Regression](#week-10-multivariate-linear-regression)                      | 9:10AM/2:10PM | HW8 Due      | 9:10AM/2:10PM    | Tut 7 Due  |
 | 11   |Nov 21  | [Classification Decision Trees](#week-11-classification-decision-trees)                      | 9:10AM/2:10PM | HW9 Due      | 9:10AM/2:10PM    | Tut 8 Due  |
-| 12   |Nov 28  | [Ethics, Confounding, and Study Design](#week-12-eithics-confounding-and-study-design) | 9:10AM/2:10PM | HW10 Due      | 9:10AM/2:10PM    | Tut 9 Due  |
+| 12   |Nov 28  | [Ethics, Confounding, and Study Design](#week-12-ethics-confounding-and-study-design) | 9:10AM/2:10PM | HW10 Due      | 9:10AM/2:10PM    | Tut 9 Due  |
 | 13   |Dec 5   | **Final Review**                          | 9:10AM/2:10PM |              |                   |            |
 |  |       | *Oct 10 -> Dec 8th Reschedule             |                | **Thursday** |                   |            |
 |   |      |                                           |                | **Dec 8th**  |                   |            |
