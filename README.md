@@ -66,7 +66,7 @@ The first day of class and the first day of tutorial occur during the week of Se
 | 2    |Sep 19  | [Distributions and Statistics](#week-2-data-types-ggplot2-and-lower-case-statistics)              | 9:10AM/2:10PM | HW2 Due      | 9:10AM/2:10PM    | Tut 2 Due  |
 | 3    |Sep 26  | [Data Wrangling with Tidy](#week-3-tidy-data-and-data-wrangling)                  | 9:10AM/2:10PM | HW3 Due      | 9:10AM/2:10PM    | Tut 3 Due  |
 | 4    |Oct 3   | [One/Two Sample Hypothesis Testing](#week-4-one-and-two-sample-hypothesis-tests)     | 9:10AM/2:10PM | HW45Part2 Due| 9:10AM/2:10PM    | Tut 4 Due  |
-| 5    |Oct 10  | *THANKSGIVING DAY: NO CLASS, RESCHEDULED  |               | HW45Part3 Due| 9:10AM/2:10PM    | **Projet Introduction** |
+| 5    |Oct 10  | *THANKSGIVING DAY: NO CLASS, RESCHEDULED  |               | HW45Part3 Due| 9:10AM/2:10PM    | **Project Introduction** |
 | 6    |Oct 17  | [Bootstrap Confidence Intervals](#week-6-bootstrap-confidence-intervals)            | 9:10AM/2:10PM | HW6 Due      | 9:10AM/2:10PM    | Tut 5 Due  |
 | 7    |Oct 24  | **Midterm Review**                        | 9:10AM/2:10PM |              | 9:10AM/2:10PM    | **Midterm Exam**   |
 | 8    |Oct 31  | [Simple Linear Regression](#week-8-simple-linear-regression)                  | 9:10AM/2:10PM | HW7 Due      | 9:10AM/2:10PM    | Tut 6 Due  |
@@ -134,29 +134,43 @@ Of the analyses proposed above, we've so far only covered **Hypothesis Testing**
 
 ### Course project requirements and scope
 
-#### Your Project Poster will be evaluated based on the presentation of 3 of the 5 distinct categories of analyses noted above (Hypothesis Testing, Confidence Intervals, Correlation, Regression, Classification) and the use of supporting visualizations and explanation.
+Your Course Project will grade (20% of course grade) will be divided up between an initial logistics planning proposal (2% of course grade), 
+a live poster presentation (8% of course grade), and an offline evaluation of your submitted poster presentation slides (10% of course grade).
+
+#### Your poster presentation and slides will be evaluated based on your presentation of 3 of the 5 distinct categories of analyses noted above (Hypothesis Testing, Confidence Intervals, Correlation, Regression, Classification) and the use of supporting visualizations and explanation.
+
+#### The group logistics planning proposal is due my midnight on October 28th, which is the same week as the Midterm Exam. 
+- The requirement to plan project meeting and work logistics with your group during the week of the Midterm Exam is intended to emphasize scheduling during time when it's particularly relevent; and, to perhaps generate useful opportunties for group study sessions, so hopefully this is something you're doing sooner rather than later.  It should not be the case that you're rushing to finish this after the Midterm Exam.
+
+#### The poster presentations will be on December 8th, and project slides will be due on December 8th as well.
 
 |<img src="poster_fair.JPG" height=400px>|<img src="poster_fair_2.jpg" height=400px>|
 |-|-|
 
+#### Outstanding projects will successfully accomplish the required tasks as part of a coherent narrative addressing the bigger picture of the project: what is "good" cellular homeostasis, and how can "bad" cellular homeostasis be changed to be "good"?
 
-*Outstanding projects will successfully accomplish the required tasks as part of a coherent narrative addressing the bigger picture of the project: what is "good" cellular homeostasis, and how can "bad" cellular homeostasis be changed to be "good"?*
+For the purposes of the course project, your objective is to answer three questions like those from 1-6 above for our data from our collaborator Dr. Shakeri. Question 7 is not required for the project, but you may be interested in pursuing it anyway if you're attempting to submit an *outstanding* project. In doing so, you would likely address the following questions:
+- How do the observed correlations evolve over time under the different experimental conditions?
+- Is this temporal dynamic *itself* predictive of the eventual state of the downstream cellular phenotypes?
+- Are the temporal dynamics different or somehow controlled by the experimental conditions?
 
-> For the purposes of the course project, your objective is to answer three questions like those from 1-6 above for our data from our collaborator Dr. Shakeri. Question 7 is not required for the project, but you may be interested in pursuing it anyway:
-> - How do the observed correlations evolve over time under the different experimental conditions?
-> - Is this temporal dynamic *itself* predictive of the eventual state of the downstream cellular phenotypes?
-> - Are the temporal dynamic different or somehow controlled by the experimental conditions?
->
-> By looking at these more advanced "meta" questions, we may be able to understand the inter-dependence of the AP-1 proteins, their driving relationship with downstream cellular phenotypes, and how we may be able intervene along this pathway to induce transformation away from deletarious cellular states. Which brings us full circle to our collaborators research objectives.
-> > By understanding typical cellular homeostatis of healthy and deliterious cells, and observing the phenotypical transformation of cellular proteomic homeostatsis over time in response to different experimental conditions, we may eventually be able to understand how to direct deleterious cellular states to transition into non-deleterious states. And with this "data-driven identification and control of high-dimensional dynamical systems" we will be able to fight cancer!
->
-> If there are certain correlation structures in the TF proteins that leads to good and bad phenotype outcome states Y, can we affect the correlation structure of the TF proteins with some treatment which changes the state from a bad phenotype to a good one.
+By looking at these more advanced "meta" questions, we may be able to understand the inter-dependence of the AP-1 proteins, their driving relationship with downstream cellular phenotypes, and how we may be able intervene along this pathway to induce transformation away from deletarious cellular states. If there are certain correlation structures in the TF proteins that leads to good and bad phenotype outcome states $Y$, can we affect the correlation structure of the TF proteins with some treatment which changes the state from a bad phenotype to a good one?
 
-There will be 3 project teams of 3-4 students per TUT group. Working groups are one of the primary communities we are a part of in life. Take advantage of the opportunity to make connections with your peers!  Collaborative work is -- and I cannot stress this enough -- **A HUGE** part of the being a Statisticain or a Data Scientist. So take this opportunity to practice being a good team member. Learn from your peers, meet your peers where they're at and be charitable and generous in your interactions with them, and do your best to be supportive and helpful to your team.  You will need to work as a team to plan your project strategy, divide and assign tasks, and collaboratively improve and refine your work. Be constructive and help synergize your teams potential!
+> By understanding typical cellular homeostatis of healthy and deliterious cells, and observing the phenotypical transformation of cellular proteomic homeostatsis over time in response to different experimental conditions, we may eventually be able to understand how to direct deleterious cellular states to transition into non-deleterious states. And with this "data-driven identification and control of high-dimensional dynamical systems" we will be able to fight cancer!
 
-- There are many things to explore in this data. But remember, the project is scored based on your presentation of 3 of the 5 distinct categories, not the exhaustiveness of your analysis. It is worth spending time on exploratory data analysis (EDA) as it will help you form your initial objectives and guide any advanced work you do beyond the basic project requirements; but, if you find your EDA requiring too much time and effort, then you need to quickly determine how you can reduce the scope of your efforts.  You will never be able to do everything you want to with a data set, and you need to be comfortable working efficiently towards clear and achieveable objectives while avoiding "analysis paralysis" -- this is a very important skill for being effective and productive as a statistician or a data scientist.
+### Course project groups
+
+There will be 6 project teams of 4 students per TUT group (perhaps with some groups of 3). Working groups are one of the primary communities we are a part of in life. Take advantage of the opportunity to make connections with your peers!  Collaborative work is -- and I cannot stress this enough -- **A HUGE** part of the being a Statisticain or a Data Scientist. So take this opportunity to practice being a good team member. Learn from your peers, meet your peers where they're at and be charitable and generous in your interactions with them, and do your best to be supportive and helpful to your team.  You'll need to work as a team to plan your project strategy, divide and assign tasks, and collaboratively improve and refine your work. Be constructive and help synergize your teams potential!
+
+Your first project assignment (worth 2% of the total 20%, i.e., 2%+18%=20%) is to plan the routine and cadence of your group work and meetings. When will you meet? How will you meet? How will you determine which group members do which work? What will you do if a group member is not completing the work they agreed to? What will you do if you can't agree on what work the members of the group will do? What will you do if there are problems with group dynamics? The proposal planning your group logistics is due my midnight on October 28th, which is the same week as the Midterm Exam. Your groups proposal will be evaluated based on the expected effectiveness of the plan, and the contingencies put in place by the proposal that give your group the ability to handle adversity and challenge in a self-sufficient manner.  
+
+Submit your group meeting and working logistics proposal [here on Quercus](https://q.utoronto.ca/courses/277998/assignments/910660). Your submitted document must include the names of each member of your group, and each member of your group must have approved and signed the proposal, and each member of the group must submit this document individually in order to receive a grade for this component. If it has not been possible to contact and engage a group member for the purposes of creating the proposal, document your "reasonable and sufficient" attempt to contact the absent group member as an appendix to your proposal.
+
+### A word of caution/advice
+
+There are many things to explore in this data. But remember, the project is scored based on your presentation of 3 of the 5 distinct categories, not the exhaustiveness of your analysis. It is worth spending time on exploratory data analysis (EDA) as it will help you form your initial objectives and guide any advanced work you do beyond the basic project requirements; but, if you find your EDA requiring too much time and effort, then you need to quickly determine how you can reduce the scope of your efforts.  You will never be able to do everything you want to with a data set, and you need to be comfortable working efficiently towards clear and achieveable objectives while avoiding "analysis paralysis" -- this is a very important skill for being effective and productive as a statistician or a data scientist.
  
-  > When you're examining the dependency between the proteins, only examine the different proteins within one particular treatment condition at first. If you're consider comparing analyses across different treatment conditions, it's first to best to confirm that repeated batches (`Rep`) are behaving reproducibly. If you are starting to compare different treatment conditions, it's best to start by just comparing two different treatment conditions, and perhaps it makes the most sense to to the first and last timepoints within a drug since those should show the greatest differentiation.
+> When you're examining the dependency between the proteins, only examine the different proteins within one particular treatment condition at first. If you're consider comparing analyses across different treatment conditions, it's first to best to confirm that repeated batches (`Rep`) are behaving reproducibly. If you are starting to compare different treatment conditions, it's best to start by just comparing two different treatment conditions, and perhaps it makes the most sense to to the first and last timepoints within a drug since those should show the greatest differentiation.
 
 ### Course project data
 
