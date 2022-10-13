@@ -48,6 +48,7 @@ Specifically, STA130 has the following **5 Learning Objectives**:
 Please see below for information regarding the following topics:
 
 - [Calendar](#calendar)
+- [Learning R](#learning-r)
 - [Course project](#course-project)
   - [Course project requirements and scope](#course-project-requirements-and-scope)
   - [Course project data](course-project-data)
@@ -81,6 +82,34 @@ The first day of class and the first day of tutorial occur during the week of Se
 |     |    |                                           |                | **Project (DUE)**  |                   |            |
 |      |   |                                           |                | **Presentations** |              |            |
 
+
+## Learning R
+
+Ivan and Rahul Selvakumar have put together some resources for helping you get better at R (found through the Department along with some YouTube channels and MOOCs):
+
+[R self-paced introduction from the Department Of Statistical Sciences](https://dosstoolkit.com/)
+
+- Students can use the code and modules provided to gain some hands-on-experience with R. It covers most of the stuff that students do in STA130 and some more (Using github, maps and etc ) which can be helpful for Statistics competitions and Kaggle competitions.
+
+[R for Data science (Courtesy of Cindy 😊)](https://r4ds.had.co.nz/)
+
+- A thorough book on how R (and its countless packages) can be used to perform data analysis. Although the book delves into a lot of complicated ideas it can be a great place for those who want to venture outside of STA130.
+
+[R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+
+Another excellent book that focuses more on R markdown which is an excellent resource for students who want to learn how to create dynamic pdfs, html files or word documents with R. Having a good understanding of this can be a plus for resume
+
+[Edureka YouTube video](https://www.youtube.com/watch?v=eDrhZb2onWY)
+
+- A more handhold-y youtube guide that involves the basic codes aspects of R. I think this is great for students who are finding it difficult to execute even a single line of code in R.  (just to be clear this is just for this video and not the course that they are running which is way too expensive)
+
+[RStudio’s own education guidelines](https://education.rstudio.com/learn/beginner/)
+
+This covers a few basic ways students (and others) can get started with R. The main page includes a few videos, tutorials, books, and a flowchart with how to get started with R. I also recommend going through until the Intermediate stage which covers, design elements such as visualisation, cheatsheets, statistical models such as regression, and some interactive applications (although this tends to be a more advanced)
+
+[Introduction to R workshop](https://libcal.library.utoronto.ca/event/3691450)
+
+- This is just a workshop held by UofT. Its supposed to be a very basic introduction to R and Rstudio.
 
 ## Course project
 
