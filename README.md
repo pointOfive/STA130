@@ -87,6 +87,8 @@ The first day of class and the first day of tutorial occur during the week of Se
 
 Ivan and Rahul Selvakumar have put together some resources for helping you get better at R (found through the Department along with some YouTube channels and MOOCs). These specific resources are highlighted in where appropriate in the [outline](#outline) below as well.  
 
+https://mdl.library.utoronto.ca/support/workshops-and-training
+
 [R self-paced introduction from the Department Of Statistical Sciences](https://dosstoolkit.com/)
 
 - Students can use the code and modules provided to gain some hands-on-experience with R. It covers most of the stuff that students do in STA130 and some more (Using github, maps and etc ) which can be helpful for Statistics competitions and Kaggle competitions.
